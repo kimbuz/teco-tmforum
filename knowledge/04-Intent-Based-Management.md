@@ -1,3 +1,7 @@
+---
+tags: [knowledge, intent, orchestration, automation]
+---
+
 # Intent-Based Management
 
 ## Definition
@@ -67,7 +71,7 @@ The system handles all the decomposition — the operator only declares the top-
 | L4 | Cross-domain intent orchestration |
 | L5 | Business-level intent drives everything |
 
-Intent-based management is what enables [Zero Wait](./01-Zero-X.md) — customers express what they need, and the network delivers instantly without manual translation.
+Intent-based management is what enables [[01-Zero-X|Zero Wait]] — customers express what they need, and the network delivers instantly without manual translation.
 
 ---
 

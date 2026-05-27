@@ -1,3 +1,7 @@
+---
+tags: [use-case, MasOrange, Level-4, certification, ANLET]
+---
+
 # Use Case 04: TM Forum Level 4 Autonomous Network Certification
 
 ## Summary
@@ -163,7 +167,7 @@ AFTER (Level 4):
 
 ## TM Forum "Zero-X" Vision
 
-Level 4 certification aligns with TM Forum's "Zero-X" operations target (see [full Zero-X explanation](../knowledge/01-Zero-X.md)):
+Level 4 certification aligns with TM Forum's "Zero-X" operations target (see [[01-Zero-X|full Zero-X explanation]]):
 
 | Zero-X | Meaning | How MasOrange Achieves |
 |--------|---------|----------------------|

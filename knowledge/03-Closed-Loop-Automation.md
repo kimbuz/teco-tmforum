@@ -1,3 +1,7 @@
+---
+tags: [knowledge, closed-loop, automation, operations]
+---
+
 # Closed-Loop Automation
 
 ## Definition
@@ -56,11 +60,11 @@ If verification fails, the loop restarts with new observations.
 
 | Concept | How It Relates |
 |---------|---------------|
-| [Zero-X](./01-Zero-X.md) | Closed-loop is what delivers Zero Touch and Zero Trouble |
-| [AN Levels](./02-Autonomous-Networks-Levels.md) | L3+ requires closed-loop; L4/L5 require cross-domain loops |
-| [Intent-Based Management](./04-Intent-Based-Management.md) | Intent defines the "what"; closed-loop delivers the "how" |
-| [Agentic AI](../dtw-ignite-prep/04-Agentic-AI-in-Telco.md) | AI agents are the decision-makers inside the loop |
-| [rApps](./06-rApps-and-SMO.md) | rApps implement closed-loops for RAN optimization |
+| [[01-Zero-X|Zero-X]] | Closed-loop is what delivers Zero Touch and Zero Trouble |
+| [[02-Autonomous-Networks-Levels|AN Levels]] | L3+ requires closed-loop; L4/L5 require cross-domain loops |
+| [[04-Intent-Based-Management|Intent-Based Management]] | Intent defines the "what"; closed-loop delivers the "how" |
+| [[04-Agentic-AI-in-Telco|Agentic AI]] | AI agents are the decision-makers inside the loop |
+| [[06-rApps-and-SMO|rApps]] | rApps implement closed-loops for RAN optimization |
 
 ---
 

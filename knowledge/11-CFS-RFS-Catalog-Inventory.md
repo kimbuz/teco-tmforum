@@ -1,3 +1,7 @@
+---
+tags: [knowledge, CFS, RFS, catalog, inventory, PSR-model]
+---
+
 # CFS, RFS, Catalogs & Inventories
 
 ## Definition
@@ -188,12 +192,12 @@ sequenceDiagram
 
 | Concept | Connection |
 |---------|-----------|
-| [ODA](./06-Open-Digital-Architecture-ODA.md) | ODA Components manage catalogs and inventories |
-| [Digital Twin](./05-Digital-Twin.md) | CFS/RFS topology is a layer within the digital twin |
-| [Knowledge Graph](./07-Knowledge-Graph.md) | CFS→RFS→Resource chains are graph paths |
-| [Intent-Based Management](./04-Intent-Based-Management.md) | Intent decomposes through CFS/RFS rules |
-| [Data Fabric](../use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | Catalogs/inventories are key data products in the fabric |
-| [Zero Wait](./01-Zero-X.md) | Automated catalog-driven provisioning enables instant delivery |
+| [[06-Open-Digital-Architecture-ODA|ODA]] | ODA Components manage catalogs and inventories |
+| [[05-Digital-Twin|Digital Twin]] | CFS/RFS topology is a layer within the digital twin |
+| [[07-Knowledge-Graph|Knowledge Graph]] | CFS→RFS→Resource chains are graph paths |
+| [[04-Intent-Based-Management|Intent-Based Management]] | Intent decomposes through CFS/RFS rules |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Catalogs/inventories are key data products in the fabric |
+| [[01-Zero-X|Zero Wait]] | Automated catalog-driven provisioning enables instant delivery |
 
 ---
 

@@ -1,3 +1,7 @@
+---
+tags: [use-case, data-model, CFS, RFS, catalog, inventory]
+---
+
 # Use Case 07: Data Architecture — From Legacy Telco Data to Autonomous Networks
 
 ## The Core Question

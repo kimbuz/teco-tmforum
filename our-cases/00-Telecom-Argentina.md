@@ -1,3 +1,7 @@
+---
+tags: [telecom-argentina, our-company, AN-manifesto, partnerships]
+---
+
 # Telecom Argentina — TM Forum & Industry Involvement
 
 Everything found about Telecom Argentina's participation in TM Forum, DTW events, Catalyst projects, publications, talks, and related industry engagements.

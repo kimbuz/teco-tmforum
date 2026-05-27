@@ -1,3 +1,7 @@
+---
+tags: [use-case, index]
+---
+
 # Autonomous Networks — Use Cases & Architectures (Theory to Practice)
 
 Real-world deployments, reference architectures, and data foundations for Autonomous Networks. Covers multiple operators, cloud platforms, and network domains.
@@ -9,22 +13,22 @@ Real-world deployments, reference architectures, and data foundations for Autono
 ### Operator Deployments (MasOrange — Spain, L4 Certified)
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 01 | [GraphML-Powered AIOps & Root Cause Analysis](./01-GraphML-AIOps-Root-Cause-Analysis.md) | Google Cloud + NetAI + GNN + Digital Twin | PoC demonstrated at MWC 2026 |
-| 02 | [RAN Automation with Ericsson EIAP & rApps](./02-RAN-Automation-EIAP-rApps.md) | Ericsson EIAP + SMO + rApps | Production (Dec 2025) |
-| 03 | [AI-Centric Transmission Network](./03-AI-Centric-Transmission-Network.md) | AI/ML + Intent-Based Orchestration | Production (2025–2026) |
-| 04 | [TM Forum Level 4 Certification](./04-TM-Forum-Level4-Certification.md) | Full AN architecture | Certified May 2026 |
+| 01 | [[01-GraphML-AIOps-Root-Cause-Analysis|GraphML-Powered AIOps & Root Cause Analysis]] | Google Cloud + NetAI + GNN + Digital Twin | PoC demonstrated at MWC 2026 |
+| 02 | [[02-RAN-Automation-EIAP-rApps|RAN Automation with Ericsson EIAP & rApps]] | Ericsson EIAP + SMO + rApps | Production (Dec 2025) |
+| 03 | [[03-AI-Centric-Transmission-Network|AI-Centric Transmission Network]] | AI/ML + Intent-Based Orchestration | Production (2025–2026) |
+| 04 | [[04-TM-Forum-Level4-Certification|TM Forum Level 4 Certification]] | Full AN architecture | Certified May 2026 |
 
 ### AWS-Based Deployments & Architectures
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 05 | [Ericsson Agentic rApp as a Service on AWS](./05-AWS-Agentic-rApp-as-a-Service.md) | AWS Bedrock + SageMaker + Ericsson EIAP | Production (60+ CSPs) |
-| 06 | [AWS Multi-Agent Network Operations](./06-AWS-Multi-Agent-Network-Operations.md) | Amazon Bedrock Agents + Nova + Lambda | Open-source reference architecture |
+| 05 | [[05-AWS-Agentic-rApp-as-a-Service|Ericsson Agentic rApp as a Service on AWS]] | AWS Bedrock + SageMaker + Ericsson EIAP | Production (60+ CSPs) |
+| 06 | [[06-AWS-Multi-Agent-Network-Operations|AWS Multi-Agent Network Operations]] | Amazon Bedrock Agents + Nova + Lambda | Open-source reference architecture |
 
 ### Data Architecture & Foundations
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 07 | [Data Model: CFS/RFS/Catalog for AN](./07-Data-Model-CFS-RFS-Catalog-for-AN.md) | TM Forum PSR + Graph DB + Digital Twin | Architecture guidance |
-| 08 | [Data Mesh/Fabric & Unified Knowledge Layer](./08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | Data Mesh + Knowledge Graph + MCP + Federated Governance | Industry convergence (2025–2026) |
+| 07 | [[07-Data-Model-CFS-RFS-Catalog-for-AN|Data Model: CFS/RFS/Catalog for AN]] | TM Forum PSR + Graph DB + Digital Twin | Architecture guidance |
+| 08 | [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Mesh/Fabric & Unified Knowledge Layer]] | Data Mesh + Knowledge Graph + MCP + Federated Governance | Industry convergence (2025–2026) |
 
 ---
 
@@ -111,7 +115,7 @@ Real-world deployments, reference architectures, and data foundations for Autono
 5. **AWS Multi-Agent NOC** — Open-source reference architecture on GitHub
 
 ### How to handle inventory, RFS, CFS, Catalog for AN?
-See **[Document 07](./07-Data-Model-CFS-RFS-Catalog-for-AN.md)**. Key points:
+See **[[07-Data-Model-CFS-RFS-Catalog-for-AN|Document 07]]**. Key points:
 - TM Forum's PSR (Product-Service-Resource) model is the standard
 - CFS = technology-agnostic customer view; RFS = technology-specific network view
 - Graph databases are essential for topology-aware AI
@@ -119,7 +123,7 @@ See **[Document 07](./07-Data-Model-CFS-RFS-Catalog-for-AN.md)**. Key points:
 - Transformation is phased: Reconcile → Model → Graph → Digital Twin
 
 ### How to avoid building tons of integrations?
-See **[Document 08](./08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md)**. Key points:
+See **[[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Document 08]]**. Key points:
 - Data Mesh / Data Fabric patterns — data stays where it is, semantic layer unifies access
 - Knowledge Graphs as the backbone (relationships are first-class citizens)
 - Standardized protocols (MCP, A2A, Open APIs) replace point-to-point connections

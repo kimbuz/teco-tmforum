@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, my-agenda, fault-management, sessions, calendar]
+---
+
 # DTW Ignite 2026 — Recommended Sessions: AI for Fault Management
 
 Your curated agenda focused on AI-driven fault management, self-healing, root cause analysis, and autonomous operations.

@@ -1,3 +1,7 @@
+---
+tags: [knowledge, an-levels, maturity, ANLET]
+---
+
 # Autonomous Networks Levels (L0–L5)
 
 ## Definition
@@ -74,7 +78,7 @@ Key points:
 | L4 | Near-instant | Minimal human touch | Proactive cross-domain |
 | L5 | **Zero** | **Zero** | **Zero** |
 
-See also: [Zero-X](./01-Zero-X.md)
+See also: [[01-Zero-X|Zero-X]]
 
 ---
 

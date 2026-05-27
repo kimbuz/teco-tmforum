@@ -1,3 +1,7 @@
+---
+tags: [examples, vendors, Level-2, SON, orchestration, playbooks]
+---
+
 # Level 2 — Partial Autonomous
 
 ## Definition

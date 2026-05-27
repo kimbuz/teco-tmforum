@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, event, copenhagen, agenda]
+---
+
 # DTW Ignite 2026 — Event Guide
 
 ## Event Details

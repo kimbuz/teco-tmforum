@@ -1,3 +1,7 @@
+---
+tags: [knowledge, AIOps, fault-management, anomaly-detection]
+---
+
 # AIOps — AI for IT/Network Operations
 
 ## Definition
@@ -31,7 +35,7 @@ AIOps (Artificial Intelligence for Operations) applies machine learning and data
 | Explainability | Black box | Explainable (graph paths) |
 | Root cause | Guesses based on patterns | Traces through known dependencies |
 
-See: [Knowledge Graph](./07-Knowledge-Graph.md) and [Use Case 01 — GraphML AIOps](../use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md)
+See: [[07-Knowledge-Graph|Knowledge Graph]] and [[01-GraphML-AIOps-Root-Cause-Analysis|Use Case 01 — GraphML AIOps]]
 
 ---
 

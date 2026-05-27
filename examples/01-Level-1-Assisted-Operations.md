@@ -1,3 +1,7 @@
+---
+tags: [examples, vendors, Level-1, ZTP, dashboards, monitoring]
+---
+
 # Level 1 — Assisted Operations
 
 ## Definition

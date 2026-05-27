@@ -1,3 +1,7 @@
+---
+tags: [knowledge, architecture, relationships, overview]
+---
+
 # One View, All Layers — How SID, ODA, CFS, RFS, Catalog, Inventory & Digital Twin Fit Together
 
 ## The Big Picture
@@ -129,9 +133,9 @@ Without Digital Twin → AI can't reason about the network
 
 ## Related Documents
 
-- [SID — Information Framework](./12-SID-Information-Framework.md)
-- [ODA — Open Digital Architecture](./06-Open-Digital-Architecture-ODA.md)
-- [CFS, RFS, Catalogs & Inventories](./11-CFS-RFS-Catalog-Inventory.md)
-- [Digital Twin](./05-Digital-Twin.md)
-- [Knowledge Graph](./07-Knowledge-Graph.md)
-- [Intent-Based Management](./04-Intent-Based-Management.md)
+- [[12-SID-Information-Framework|SID — Information Framework]]
+- [[06-Open-Digital-Architecture-ODA|ODA — Open Digital Architecture]]
+- [[11-CFS-RFS-Catalog-Inventory|CFS, RFS, Catalogs & Inventories]]
+- [[05-Digital-Twin|Digital Twin]]
+- [[07-Knowledge-Graph|Knowledge Graph]]
+- [[04-Intent-Based-Management|Intent-Based Management]]

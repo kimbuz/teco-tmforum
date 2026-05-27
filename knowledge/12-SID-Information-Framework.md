@@ -1,3 +1,7 @@
+---
+tags: [knowledge, SID, data-model, ontology, vocabulary]
+---
+
 # SID — Information Framework (Shared Information/Data Model)
 
 ## Definition
@@ -129,12 +133,12 @@ SID is maintained as a UML model and published in multiple formats (UML, HTML, E
 
 | Concept | Connection |
 |---------|-----------|
-| [ODA](./06-Open-Digital-Architecture-ODA.md) | SID is the data model underlying all ODA components |
-| [CFS/RFS/Catalog/Inventory](./11-CFS-RFS-Catalog-Inventory.md) | These are SID entities in the Service and Resource domains |
-| [Open APIs](./06-Open-Digital-Architecture-ODA.md) | API data models are derived from SID |
-| [Knowledge Graph](./07-Knowledge-Graph.md) | SID provides the ontology for the graph |
-| [Digital Twin](./05-Digital-Twin.md) | SID defines what entities the twin contains |
-| [Data Fabric](../use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | SID is the semantic standard for the fabric |
+| [[06-Open-Digital-Architecture-ODA|ODA]] | SID is the data model underlying all ODA components |
+| [[11-CFS-RFS-Catalog-Inventory|CFS/RFS/Catalog/Inventory]] | These are SID entities in the Service and Resource domains |
+| [[06-Open-Digital-Architecture-ODA|Open APIs]] | API data models are derived from SID |
+| [[07-Knowledge-Graph|Knowledge Graph]] | SID provides the ontology for the graph |
+| [[05-Digital-Twin|Digital Twin]] | SID defines what entities the twin contains |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | SID is the semantic standard for the fabric |
 | eTOM (Process Framework) | SID entities are the data that eTOM processes operate on |
 
 ---

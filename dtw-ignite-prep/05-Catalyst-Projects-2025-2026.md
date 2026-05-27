@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, catalysts, innovation, projects]
+---
+
 # TM Forum Catalyst Projects — AI & Autonomous Networks (2025–2026)
 
 ## What Are Catalysts?

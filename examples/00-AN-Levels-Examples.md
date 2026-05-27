@@ -1,3 +1,7 @@
+---
+tags: [examples, vendors, index, comparison]
+---
+
 # Examples — AN Levels in the Real World (L1 to L3)
 
 Concrete examples of what Autonomous Network Levels 1, 2, and 3 look like in production today. Covers mobile and fixed networks, with focus on architecture, technologies, and vendors involved.
@@ -8,9 +12,9 @@ Concrete examples of what Autonomous Network Levels 1, 2, and 3 look like in pro
 
 | # | Level | Focus | What You'll Learn |
 |---|-------|-------|-------------------|
-| 01 | [Level 1 — Assisted Operations](./01-Level-1-Assisted-Operations.md) | ZTP, dashboards, basic alerting | What most telcos already have |
-| 02 | [Level 2 — Partial Autonomous](./02-Level-2-Partial-Autonomous.md) | SON, policy-based automation, scripted workflows | Where most telcos are today |
-| 03 | [Level 3 — Conditional Autonomous](./03-Level-3-Conditional-Autonomous.md) | Domain-specific AI decisions, closed-loop within domains | The frontier before L4 |
+| 01 | [[01-Level-1-Assisted-Operations|Level 1 — Assisted Operations]] | ZTP, dashboards, basic alerting | What most telcos already have |
+| 02 | [[02-Level-2-Partial-Autonomous|Level 2 — Partial Autonomous]] | SON, policy-based automation, scripted workflows | Where most telcos are today |
+| 03 | [[03-Level-3-Conditional-Autonomous|Level 3 — Conditional Autonomous]] | Domain-specific AI decisions, closed-loop within domains | The frontier before L4 |
 
 ---
 

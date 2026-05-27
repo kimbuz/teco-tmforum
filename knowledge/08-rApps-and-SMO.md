@@ -1,3 +1,7 @@
+---
+tags: [knowledge, rApps, SMO, O-RAN, RAN-automation]
+---
+
 # rApps and SMO (Service Management & Orchestration)
 
 ## Definition
@@ -75,7 +79,7 @@ The latest evolution: rApps powered by **Agentic AI** where specialized AI agent
 - Uses Amazon Bedrock for agent coordination
 - Supports MCP and A2A protocols for integration
 
-See: [Use Case 05 — AWS Agentic rApp as a Service](../use-cases/05-AWS-Agentic-rApp-as-a-Service.md)
+See: [[05-AWS-Agentic-rApp-as-a-Service|Use Case 05 — AWS Agentic rApp as a Service]]
 
 ---
 

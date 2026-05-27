@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, agentic-AI, multi-agent, telco]
+---
+
 # Agentic AI in Telecommunications
 
 ## What is Agentic AI?

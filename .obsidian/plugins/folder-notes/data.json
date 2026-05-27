@@ -1,0 +1,9 @@
+{
+  "folderNoteName": "{{folder_name}}",
+  "folderNoteType": "inside",
+  "showFolderNoteOnClickInExplorer": true,
+  "hideFolderNote": false,
+  "templatePath": "",
+  "autoCreate": false,
+  "enableCollapsing": false
+}

@@ -1,3 +1,7 @@
+---
+tags: [use-case, MasOrange, transport, AI, self-healing]
+---
+
 # Use Case 03: AI-Centric Transmission Network Reinvention
 
 ## Summary

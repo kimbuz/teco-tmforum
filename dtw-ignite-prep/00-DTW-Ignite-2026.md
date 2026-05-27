@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, index, event]
+---
+
 # DTW Ignite 2026 — Preparation Guide
 
 ## 📅 Event: DTW Ignite 2026
@@ -12,15 +16,15 @@
 
 | # | File | Content |
 |---|------|---------|
-| 01 | [TM Forum Overview](./01-TM-Forum-Overview.md) | What TM Forum is, core frameworks (ODA, eTOM, SID, Open APIs), programs |
-| 02 | [DTW Ignite 2026 Event Guide](./02-DTW-Ignite-2026-Event-Guide.md) | Event details, three mission summits, new formats, who attends |
-| 03 | [Autonomous Networks](./03-Autonomous-Networks.md) | AN levels (L0–L5), current industry status, technology enablers, timeline |
-| 04 | [Agentic AI in Telco](./04-Agentic-AI-in-Telco.md) | Multi-agent systems, use cases, Agentic ODA, CSP strategies |
-| 05 | [Catalyst Projects 2025–2026](./05-Catalyst-Projects-2025-2026.md) | 15 active Catalyst projects on AI, agents, and autonomous networks |
-| 06 | [Publications & Reports](./06-Publications-and-Reports.md) | Complete list of TM Forum reports, articles, and external publications |
-| 07 | [My Agenda: AI for Fault Management](./07-My-Agenda-AI-Fault-Management.md) | Curated sessions, masterclasses, catalysts, and 3-day plan |
+| 01 | [[01-TM-Forum-Overview|TM Forum Overview]] | What TM Forum is, core frameworks (ODA, eTOM, SID, Open APIs), programs |
+| 02 | [[02-DTW-Ignite-2026-Event-Guide|DTW Ignite 2026 Event Guide]] | Event details, three mission summits, new formats, who attends |
+| 03 | [[03-Autonomous-Networks|Autonomous Networks]] | AN levels (L0–L5), current industry status, technology enablers, timeline |
+| 04 | [[04-Agentic-AI-in-Telco|Agentic AI in Telco]] | Multi-agent systems, use cases, Agentic ODA, CSP strategies |
+| 05 | [[05-Catalyst-Projects-2025-2026|Catalyst Projects 2025–2026]] | 15 active Catalyst projects on AI, agents, and autonomous networks |
+| 06 | [[06-Publications-and-Reports|Publications & Reports]] | Complete list of TM Forum reports, articles, and external publications |
+| 07 | [[07-My-Agenda-AI-Fault-Management|My Agenda: AI for Fault Management]] | Curated sessions, masterclasses, catalysts, and 3-day plan |
 
-Also see: **[../use-cases/](../use-cases/)** — Real-world deployments, AWS architectures, data models, and Data Mesh/Fabric patterns.
+Also see: **[[00-README|use-cases]]** — Real-world deployments, AWS architectures, data models, and Data Mesh/Fabric patterns.
 
 ---
 

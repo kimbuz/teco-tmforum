@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, tm-forum, overview, standards]
+---
+
 # TM Forum — Complete Overview
 
 ## What is TM Forum?
@@ -34,6 +38,7 @@ A blueprint to build flexible, cloud-based telecom and enterprise IT systems. OD
 TM Forum maintains **60+ Open APIs** that are REST-based, technology-agnostic, and usable in any digital service scenario (B2B, IoT, Smart Health, NFV, Next-Gen OSS/BSS, etc.).
 
 **Notable APIs include:**
+
 | API ID | Name | Purpose |
 |--------|------|---------|
 | TMF620 | Product Catalog Management | Lifecycle management of catalog elements |

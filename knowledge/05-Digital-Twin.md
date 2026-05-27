@@ -1,3 +1,7 @@
+---
+tags: [knowledge, digital-twin, graph, real-time]
+---
+
 # Digital Twin (Network)
 
 ## Definition
@@ -73,11 +77,11 @@ Networks are inherently graphs — devices connected by links, services traversi
 
 | Concept | Connection |
 |---------|-----------|
-| [Closed-Loop Automation](./03-Closed-Loop-Automation.md) | Digital twin provides the "Observe" and "Analyze" phases |
-| [Knowledge Graph](./07-Knowledge-Graph.md) | Digital twin IS a knowledge graph of the network |
-| [CFS/RFS Model](../use-cases/07-Data-Model-CFS-RFS-Catalog-for-AN.md) | Service topology layer of the twin |
-| [Data Fabric](../use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | Digital twin is the centerpiece of the unified data layer |
-| [Zero Trouble](./01-Zero-X.md) | Twin enables prediction → prevention → zero trouble |
+| [[03-Closed-Loop-Automation|Closed-Loop Automation]] | Digital twin provides the "Observe" and "Analyze" phases |
+| [[07-Knowledge-Graph|Knowledge Graph]] | Digital twin IS a knowledge graph of the network |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS Model]] | Service topology layer of the twin |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Digital twin is the centerpiece of the unified data layer |
+| [[01-Zero-X|Zero Trouble]] | Twin enables prediction → prevention → zero trouble |
 
 ---
 

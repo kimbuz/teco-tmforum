@@ -1,3 +1,7 @@
+---
+tags: [knowledge, SID, examples, JSON, APIs]
+---
+
 # SID in Practice — Concrete Examples
 
 ## How SID Looks as Data

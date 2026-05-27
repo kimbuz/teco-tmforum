@@ -1,3 +1,7 @@
+---
+tags: [knowledge, MCP, A2A, protocols, integration]
+---
+
 # MCP and A2A Protocols
 
 ## Why These Matter
@@ -98,11 +102,11 @@ They solve different problems and are used together:
 
 | Concept | Connection |
 |---------|-----------|
-| [Data Mesh/Fabric](../use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | MCP is the access protocol for the unified knowledge layer |
-| [Agentic AI](../dtw-ignite-prep/04-Agentic-AI-in-Telco.md) | A2A enables the multi-agent collaboration pattern |
-| [rApps](./08-rApps-and-SMO.md) | Ericsson rApp aaS exposes results via MCP and A2A |
-| [ODA](./06-Open-Digital-Architecture-ODA.md) | MCP could complement Open APIs for AI-native access |
-| [Closed-Loop](./03-Closed-Loop-Automation.md) | A2A enables cross-domain closed loops between vendor agents |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Mesh/Fabric]] | MCP is the access protocol for the unified knowledge layer |
+| [[04-Agentic-AI-in-Telco|Agentic AI]] | A2A enables the multi-agent collaboration pattern |
+| [[08-rApps-and-SMO|rApps]] | Ericsson rApp aaS exposes results via MCP and A2A |
+| [[06-Open-Digital-Architecture-ODA|ODA]] | MCP could complement Open APIs for AI-native access |
+| [[03-Closed-Loop-Automation|Closed-Loop]] | A2A enables cross-domain closed loops between vendor agents |
 
 ---
 

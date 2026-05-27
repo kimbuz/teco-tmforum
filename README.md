@@ -13,7 +13,7 @@ teco-tmforum/
 |-- README.md                        <- You are here
 |
 |-- dtw-ignite-prep/                 <- DTW Ignite 2026 event preparation
-|   |-- 00-README.md                 Overview and key takeaways
+|   |-- 00-DTW-Ignite-2026.md        Overview and key takeaways
 |   |-- 01-TM-Forum-Overview.md      What TM Forum is, frameworks, standards
 |   |-- 02-DTW-Ignite-2026-Event-Guide.md  Event details, agenda, formats
 |   |-- 03-Autonomous-Networks.md    AN levels L0-L5, industry status
@@ -23,7 +23,7 @@ teco-tmforum/
 |   +-- 07-My-Agenda-AI-Fault-Management.md  Curated sessions + 3-day calendar
 |
 |-- use-cases/                       <- Real-world deployments and architectures
-|   |-- 00-README.md                 Index, key questions answered
+|   |-- 00-Use-Cases-Index.md        Index, key questions answered
 |   |-- 01-GraphML-AIOps-Root-Cause-Analysis.md     MasOrange + Google + NetAI
 |   |-- 02-RAN-Automation-EIAP-rApps.md             MasOrange + Ericsson
 |   |-- 03-AI-Centric-Transmission-Network.md       MasOrange transport
@@ -34,10 +34,10 @@ teco-tmforum/
 |   +-- 08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md  Data architecture
 |
 |-- our-cases/                       <- Telecom Argentina's own involvement
-|   +-- 00-README.md                 AN Manifesto, publications, partnerships
+|   +-- 00-Telecom-Argentina.md      AN Manifesto, publications, partnerships
 |
 |-- knowledge/                       <- Concepts and definitions
-|   |-- 00-README.md                 Index of knowledge articles
+|   |-- 00-Knowledge-Index.md        Index of knowledge articles
 |   |-- 01-Zero-X.md                 Zero Wait, Zero Touch, Zero Trouble
 |   |-- 02-Autonomous-Networks-Levels.md  L0-L5 definitions and assessment
 |   |-- 03-Closed-Loop-Automation.md Observe-Analyze-Decide-Act-Verify
@@ -54,7 +54,7 @@ teco-tmforum/
 |   +-- 14-SID-Examples.md           Concrete JSON examples
 |
 +-- examples/                        <- AN Levels L1-L3 in production
-    |-- 00-README.md                 Overview and comparison
+    |-- 00-AN-Levels-Examples.md     Overview and comparison
     |-- 01-Level-1-Assisted-Operations.md    ZTP, dashboards, alerting
     |-- 02-Level-2-Partial-Autonomous.md     SON, orchestrators, playbooks
     +-- 03-Level-3-Conditional-Autonomous.md AI decisions within domains
@@ -66,11 +66,11 @@ teco-tmforum/
 
 | Folder | What's Inside | Start Here |
 |--------|---------------|------------|
-| [dtw-ignite-prep/](./dtw-ignite-prep/00-README.md) | TM Forum background, event details, theory, publications | Event context |
-| [use-cases/](./use-cases/00-README.md) | Real deployments, AWS architectures, data models | How it works in practice |
-| [our-cases/](./our-cases/00-README.md) | Telecom Argentina's TM Forum involvement | Our company's position |
-| [knowledge/](./knowledge/00-README.md) | Concepts and definitions (Zero-X, AN Levels, etc.) | Learn the fundamentals |
-| [examples/](./examples/00-README.md) | AN Levels L1–L3 in production today (vendors, tech, open source) | What exists before L4 |
+| [dtw-ignite-prep/](./dtw-ignite-prep/00-DTW-Ignite-2026.md) | TM Forum background, event details, theory, publications | Event context |
+| [use-cases/](./use-cases/00-Use-Cases-Index.md) | Real deployments, AWS architectures, data models | How it works in practice |
+| [our-cases/](./our-cases/00-Telecom-Argentina.md) | Telecom Argentina's TM Forum involvement | Our company's position |
+| [knowledge/](./knowledge/00-Knowledge-Index.md) | Concepts and definitions (Zero-X, AN Levels, etc.) | Learn the fundamentals |
+| [examples/](./examples/00-AN-Levels-Examples.md) | AN Levels L1–L3 in production today (vendors, tech, open source) | What exists before L4 |
 
 ---
 

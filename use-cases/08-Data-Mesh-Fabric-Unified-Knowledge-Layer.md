@@ -1,3 +1,7 @@
+---
+tags: [use-case, data-mesh, data-fabric, knowledge-graph, MCP]
+---
+
 # Use Case 08: Data Mesh, Data Fabric & Unified Knowledge Layers for Autonomous Networks
 
 ## The Core Idea

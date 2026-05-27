@@ -1,3 +1,7 @@
+---
+tags: [use-case, MasOrange, Google-Cloud, GNN, AIOps, root-cause]
+---
+
 # Use Case 01: GraphML-Powered AIOps & Root Cause Analysis
 
 ## Summary

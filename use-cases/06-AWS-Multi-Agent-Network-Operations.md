@@ -1,3 +1,7 @@
+---
+tags: [use-case, AWS, multi-agent, Bedrock, open-source]
+---
+
 # Use Case 06: AWS Multi-Agent Collaboration for Telecom Network Operations
 
 ## Summary

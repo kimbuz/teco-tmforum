@@ -1,3 +1,7 @@
+---
+tags: [use-case, AWS, Ericsson, agentic-AI, rApps, production]
+---
+
 # Use Case 05: Ericsson Agentic rApp as a Service on AWS
 
 ## Summary

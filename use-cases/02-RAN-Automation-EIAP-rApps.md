@@ -1,3 +1,7 @@
+---
+tags: [use-case, MasOrange, Ericsson, rApps, RAN, production]
+---
+
 # Use Case 02: RAN Automation with Ericsson EIAP & rApps
 
 ## Summary

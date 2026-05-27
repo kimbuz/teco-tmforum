@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, publications, reports, research]
+---
+
 # TM Forum Publications & Reports — AI, Autonomous Networks, and Agentic AI
 
 ## Research Reports

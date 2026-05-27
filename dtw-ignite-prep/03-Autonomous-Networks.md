@@ -1,3 +1,7 @@
+---
+tags: [dtw-2026, autonomous-networks, an-levels, industry-status]
+---
+
 # Autonomous Networks — TM Forum Framework
 
 ## What Are Autonomous Networks?

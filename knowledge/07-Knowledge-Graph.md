@@ -1,3 +1,7 @@
+---
+tags: [knowledge, knowledge-graph, GNN, topology, AI]
+---
+
 # Knowledge Graph (for Telecom)
 
 ## Definition
@@ -57,7 +61,7 @@ GNNs are AI models designed to learn from graph-structured data. They understand
 | Structural awareness | Distinguish local anomaly from structural failure |
 | Deterministic reasoning | Follow known paths rather than statistical correlation |
 
-See: [Use Case 01 — GraphML AIOps](../use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md) for MasOrange's implementation with Google tf-GNN.
+See: [[01-GraphML-AIOps-Root-Cause-Analysis|Use Case 01 — GraphML AIOps]] for MasOrange's implementation with Google tf-GNN.
 
 ---
 
@@ -77,10 +81,10 @@ See: [Use Case 01 — GraphML AIOps](../use-cases/01-GraphML-AIOps-Root-Cause-An
 
 | Concept | Connection |
 |---------|-----------|
-| [Digital Twin](./05-Digital-Twin.md) | A digital twin IS a knowledge graph with real-time state |
-| [Data Fabric](../use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md) | Knowledge graph is the semantic backbone of a data fabric |
-| [Root Cause Analysis](../use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md) | GNNs on knowledge graphs enable deterministic RCA |
-| [CFS/RFS](../use-cases/07-Data-Model-CFS-RFS-Catalog-for-AN.md) | Service topology is a subgraph within the knowledge graph |
+| [[05-Digital-Twin|Digital Twin]] | A digital twin IS a knowledge graph with real-time state |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Knowledge graph is the semantic backbone of a data fabric |
+| [[01-GraphML-AIOps-Root-Cause-Analysis|Root Cause Analysis]] | GNNs on knowledge graphs enable deterministic RCA |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS]] | Service topology is a subgraph within the knowledge graph |
 
 ---
 

@@ -1,3 +1,7 @@
+---
+tags: [knowledge, ODA, architecture, open-apis, components]
+---
+
 # Open Digital Architecture (ODA)
 
 ## Definition
@@ -78,7 +82,7 @@ ODA is evolving so each component can function as an **independent AI-enabled ag
 - Cross-system, cross-channel, cross-domain operation
 - RAG (Retrieval-Augmented Generation) capabilities within components
 - Intent-based interaction between components
-- See: [Agentic AI in Telco](../dtw-ignite-prep/04-Agentic-AI-in-Telco.md)
+- See: [[04-Agentic-AI-in-Telco|Agentic AI in Telco]]
 
 ---
 
@@ -92,10 +96,10 @@ TM Forum offers conformance certification for vendors implementing Open APIs in 
 
 | Concept | Connection |
 |---------|-----------|
-| [CFS/RFS/Catalog](../use-cases/07-Data-Model-CFS-RFS-Catalog-for-AN.md) | ODA Components manage catalogs and inventories |
-| [AN Levels](./02-Autonomous-Networks-Levels.md) | ODA provides the IT architecture for autonomous operations |
-| [Intent-Based Management](./04-Intent-Based-Management.md) | ODA components interpret and fulfill intents |
-| [Zero Touch](./01-Zero-X.md) | ODA enables plug-and-play, reducing manual integration |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS/Catalog]] | ODA Components manage catalogs and inventories |
+| [[02-Autonomous-Networks-Levels|AN Levels]] | ODA provides the IT architecture for autonomous operations |
+| [[04-Intent-Based-Management|Intent-Based Management]] | ODA components interpret and fulfill intents |
+| [[01-Zero-X|Zero Touch]] | ODA enables plug-and-play, reducing manual integration |
 
 ---
 

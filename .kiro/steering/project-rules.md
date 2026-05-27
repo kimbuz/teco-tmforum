@@ -4,6 +4,8 @@
 
 This project is a knowledge base about TM Forum, Autonomous Networks, Agentic AI, and DTW Ignite 2026. It is maintained by Telecom Argentina's Assurance Digital team. All content should serve as preparation material for industry events and internal reference.
 
+This vault is used in **Obsidian** — all content must be Obsidian-compatible and optimized for graph view, search, and navigation.
+
 ## Subject Focus
 
 - TM Forum standards, frameworks, and events (ODA, Open APIs, eTOM, SID, ANLET)
@@ -15,24 +17,71 @@ This project is a knowledge base about TM Forum, Autonomous Networks, Agentic AI
 
 ## File Organization Rules
 
-1. Every folder must have a `00-README.md` as its index and entry point.
+1. Every folder must have a `00-<MeaningfulName>.md` as its index (e.g., `00-Knowledge-Index.md`). Never use generic names like `00-README.md`.
 2. Files are numbered with two-digit prefixes (01, 02, 03...) for reading order.
 3. One topic per file — do not mix unrelated subjects in a single document.
 4. New use cases or operator deployments go in `use-cases/` with the next available number.
 5. Telecom Argentina-specific content goes in `our-cases/`.
 6. DTW event context and TM Forum theory goes in `dtw-ignite-prep/`.
 7. Concepts, definitions, and educational frameworks go in `knowledge/`.
-8. When adding a new file, always update the corresponding `00-README.md` index.
+8. AN level examples with vendors and tech go in `examples/`.
+9. When adding a new file, always update the corresponding folder index (`00-*.md`).
+
+## Obsidian Compatibility Rules
+
+### Frontmatter (YAML)
+1. Every `.md` file MUST start with YAML frontmatter as the very first thing (before the title).
+2. Frontmatter must include `tags` as an array.
+3. Tags must include:
+   - The folder category tag: `knowledge`, `use-case`, `dtw-2026`, `examples`, `telecom-argentina`
+   - 2-5 topic-specific tags relevant to the content
+4. Use lowercase, hyphenated tags (e.g., `fault-management`, `agentic-AI`, `data-mesh`).
+5. Example:
+   ```yaml
+   ---
+   tags: [knowledge, digital-twin, graph, real-time]
+   ---
+   ```
+
+### Links
+1. Use **Obsidian wiki-links** for all internal references: `[[filename|Display Text]]`
+2. Use the filename without extension and without folder path: `[[01-Zero-X|Zero-X]]` (not `[Zero-X](../knowledge/01-Zero-X.md)`)
+3. Keep external URLs as standard markdown links: `[Text](https://...)`
+4. Cross-reference generously — every concept mention should link to its knowledge article. This makes the graph view rich and useful.
+
+### Diagrams
+1. Use **Mermaid** for all diagrams (renders natively in Obsidian).
+2. Do NOT use ASCII art — it breaks with different fonts and looks bad in Obsidian.
+3. Keep Mermaid diagrams simple and readable. Prefer `graph TD` or `graph LR` for architecture, `sequenceDiagram` for flows.
+
+### Naming
+1. File names must be descriptive and meaningful — they appear as node labels in the graph view.
+2. Never use generic names like "README", "index", "notes".
+3. Use Title-Case-With-Hyphens for filenames: `07-Knowledge-Graph.md`
+4. The `00-` prefix is reserved for folder index files only.
+
+### Structure for Graph View
+1. Each document should link to at least 2-3 other documents (creates graph connections).
+2. Include a "Related Concepts" or "Relationship to Other Concepts" section at the bottom of knowledge articles with wiki-links.
+3. Index files (`00-*`) should link to ALL files in their folder.
+4. Use tags consistently so graph filtering by tag produces useful clusters.
+
+### Formatting
+1. Use `##` headers (not `#`) for sections within a document — the `#` title is the filename in Obsidian.
+2. Use callouts for important notes: `> [!info]`, `> [!warning]`, `> [!tip]`
+3. Use tables for structured comparisons — they render well in Obsidian.
+4. Keep paragraphs short (3-4 lines max) for readability in preview mode.
+5. Use horizontal rules (`---`) to separate major sections.
 
 ## Content Rules
 
-1. Every document must have sources with links at the bottom.
+1. Every document must have sources with working links at the bottom.
 2. Include publication dates on references so we know what is current.
 3. Use tables and bullet lists over long prose — these are reference docs.
-4. Keep folder README titles general (describe the category, not one company).
+4. Keep folder index titles general (describe the category, not one company).
 5. Individual case files can be company-specific (e.g., MasOrange, BT, Telkomsel).
-6. Architecture diagrams should use Mermaid when possible for proper rendering. If ASCII is used, keep it simple and use basic characters (+, -, |, >) to avoid font alignment issues.
-7. Do not duplicate content across files — link to the relevant document instead.
+6. Do not duplicate content across files — link to the relevant document instead.
+7. Mark deployment status clearly: `Production`, `PoC`, `Demo`, `Announced`.
 
 ## When Researching
 
@@ -41,14 +90,41 @@ This project is a knowledge base about TM Forum, Autonomous Networks, Agentic AI
 3. Distinguish between PoC/demo and production deployments — mark status clearly.
 4. Note which cloud platform (AWS, Google Cloud, Azure) is involved.
 5. Track TM Forum document IDs (e.g., IG1356, TMF620) for precise referencing.
+6. When adding new content, identify which existing knowledge articles it relates to and add wiki-links.
 
 ## Project Structure Reference
 
 ```
 teco-tmforum/
-|-- README.md              Project-level navigation and contributing rules
+|-- README.md              Project-level navigation
 |-- dtw-ignite-prep/       DTW Ignite 2026 event prep and TM Forum theory
 |-- use-cases/             Real-world deployments and architecture patterns
 |-- our-cases/             Telecom Argentina's own involvement
-+-- knowledge/             Concepts, definitions, and frameworks (educational)
+|-- knowledge/             Concepts, definitions, and frameworks (educational)
+|-- examples/              AN Levels L1-L3 with vendors and open source
+|-- .obsidian/             Vault configuration (do not edit manually)
++-- .kiro/                 Kiro steering rules
 ```
+
+## Tag Reference
+
+| Folder Tag | Used In |
+|-----------|---------|
+| `knowledge` | All files in knowledge/ |
+| `use-case` | All files in use-cases/ |
+| `dtw-2026` | All files in dtw-ignite-prep/ |
+| `examples` | All files in examples/ |
+| `telecom-argentina` | All files in our-cases/ |
+
+| Topic Tags (use as needed) |
+|---------------------------|
+| `fault-management`, `self-healing`, `AIOps`, `root-cause` |
+| `agentic-AI`, `multi-agent`, `MCP`, `A2A` |
+| `autonomous-networks`, `an-levels`, `Level-4`, `ANLET` |
+| `closed-loop`, `intent`, `zero-touch`, `zero-x` |
+| `digital-twin`, `knowledge-graph`, `GNN`, `topology` |
+| `ODA`, `open-apis`, `SID`, `CFS`, `RFS`, `catalog`, `inventory` |
+| `data-mesh`, `data-fabric`, `integration`, `protocols` |
+| `rApps`, `SMO`, `O-RAN`, `RAN-automation` |
+| `AWS`, `Google-Cloud`, `Ericsson`, `Nokia`, `Huawei` |
+| `MasOrange`, `production`, `PoC`, `open-source` |
