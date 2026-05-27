@@ -55,6 +55,7 @@ graph TD
 - Examples: Product Catalog (TMFC001), Service Inventory (TMFC008), Resource Inventory (TMFC012)
 
 ### Open APIs (60+)
+
 | API | Purpose |
 |-----|---------|
 | TMF620 | Product Catalog Management |
@@ -96,10 +97,10 @@ TM Forum offers conformance certification for vendors implementing Open APIs in 
 
 | Concept | Connection |
 |---------|-----------|
-| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS/Catalog]] | ODA Components manage catalogs and inventories |
-| [[02-Autonomous-Networks-Levels|AN Levels]] | ODA provides the IT architecture for autonomous operations |
-| [[04-Intent-Based-Management|Intent-Based Management]] | ODA components interpret and fulfill intents |
-| [[01-Zero-X|Zero Touch]] | ODA enables plug-and-play, reducing manual integration |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN\|CFS/RFS/Catalog]] | ODA Components manage catalogs and inventories |
+| [[02-Autonomous-Networks-Levels\|AN Levels]] | ODA provides the IT architecture for autonomous operations |
+| [[04-Intent-Based-Management\|Intent-Based Management]] | ODA components interpret and fulfill intents |
+| [[01-Zero-X\|Zero Touch]] | ODA enables plug-and-play, reducing manual integration |
 
 ---
 

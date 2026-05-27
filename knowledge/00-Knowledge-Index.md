@@ -12,20 +12,20 @@ Foundational concepts, frameworks, and definitions referenced across this projec
 
 | # | Topic | One-Line Summary |
 |---|-------|-----------------|
-| 01 | [[01-Zero-X|Zero-X]] | Zero Wait + Zero Touch + Zero Trouble — the target experience |
-| 02 | [[02-Autonomous-Networks-Levels|Autonomous Networks Levels (L0–L5)]] | Six levels from manual to fully autonomous |
-| 03 | [[03-Closed-Loop-Automation|Closed-Loop Automation]] | Observe → Analyze → Decide → Act → Verify cycle |
-| 04 | [[04-Intent-Based-Management|Intent-Based Management]] | Declare what you want, not how to do it |
-| 05 | [[05-Digital-Twin|Digital Twin]] | Real-time virtual replica of the network |
-| 06 | [[06-Open-Digital-Architecture-ODA|Open Digital Architecture (ODA)]] | TM Forum's blueprint for modular, cloud-native telco IT |
-| 07 | [[07-Knowledge-Graph|Knowledge Graph]] | Network as nodes and edges — topology-aware AI |
-| 08 | [[08-rApps-and-SMO|rApps and SMO]] | RAN automation apps on O-RAN's orchestration platform |
-| 09 | [[09-MCP-and-A2A-Protocols|MCP and A2A Protocols]] | Standardized agent-to-data and agent-to-agent communication |
-| 10 | [[10-AIOps|AIOps]] | AI for operations — anomaly detection, RCA, remediation |
-| 11 | [[11-CFS-RFS-Catalog-Inventory|CFS, RFS, Catalogs & Inventories]] | Product → Service → Resource model, catalogs vs. inventories |
-| 12 | [[12-SID-Information-Framework|SID — Information Framework]] | TM Forum's common data model and vocabulary (the ontology) |
-| 13 | [[13-One-View-All-Layers|One View, All Layers]] | How SID, ODA, CFS, RFS, Catalog, Inventory & Digital Twin fit together |
-| 14 | [[14-SID-Examples|SID in Practice — Examples]] | Concrete JSON examples of SID entities (Service, Resource, Catalog) |
+| 01 | [[01-Zero-X\|Zero-X]] | Zero Wait + Zero Touch + Zero Trouble — the target experience |
+| 02 | [[02-Autonomous-Networks-Levels\|Autonomous Networks Levels (L0–L5)]] | Six levels from manual to fully autonomous |
+| 03 | [[03-Closed-Loop-Automation\|Closed-Loop Automation]] | Observe → Analyze → Decide → Act → Verify cycle |
+| 04 | [[04-Intent-Based-Management\|Intent-Based Management]] | Declare what you want, not how to do it |
+| 05 | [[05-Digital-Twin\|Digital Twin]] | Real-time virtual replica of the network |
+| 06 | [[06-Open-Digital-Architecture-ODA\|Open Digital Architecture (ODA)]] | TM Forum's blueprint for modular, cloud-native telco IT |
+| 07 | [[07-Knowledge-Graph\|Knowledge Graph]] | Network as nodes and edges — topology-aware AI |
+| 08 | [[08-rApps-and-SMO\|rApps and SMO]] | RAN automation apps on O-RAN's orchestration platform |
+| 09 | [[09-MCP-and-A2A-Protocols\|MCP and A2A Protocols]] | Standardized agent-to-data and agent-to-agent communication |
+| 10 | [[10-AIOps\|AIOps]] | AI for operations — anomaly detection, RCA, remediation |
+| 11 | [[11-CFS-RFS-Catalog-Inventory\|CFS, RFS, Catalogs & Inventories]] | Product → Service → Resource model, catalogs vs. inventories |
+| 12 | [[12-SID-Information-Framework\|SID — Information Framework]] | TM Forum's common data model and vocabulary (the ontology) |
+| 13 | [[13-One-View-All-Layers\|One View, All Layers]] | How SID, ODA, CFS, RFS, Catalog, Inventory & Digital Twin fit together |
+| 14 | [[14-SID-Examples\|SID in Practice — Examples]] | Concrete JSON examples of SID entities (Service, Resource, Catalog) |
 
 ---
 

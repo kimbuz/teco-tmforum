@@ -77,11 +77,11 @@ Networks are inherently graphs — devices connected by links, services traversi
 
 | Concept | Connection |
 |---------|-----------|
-| [[03-Closed-Loop-Automation|Closed-Loop Automation]] | Digital twin provides the "Observe" and "Analyze" phases |
-| [[07-Knowledge-Graph|Knowledge Graph]] | Digital twin IS a knowledge graph of the network |
-| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS Model]] | Service topology layer of the twin |
-| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Digital twin is the centerpiece of the unified data layer |
-| [[01-Zero-X|Zero Trouble]] | Twin enables prediction → prevention → zero trouble |
+| [[03-Closed-Loop-Automation\|Closed-Loop Automation]] | Digital twin provides the "Observe" and "Analyze" phases |
+| [[07-Knowledge-Graph\|Knowledge Graph]] | Digital twin IS a knowledge graph of the network |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN\|CFS/RFS Model]] | Service topology layer of the twin |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer\|Data Fabric]] | Digital twin is the centerpiece of the unified data layer |
+| [[01-Zero-X\|Zero Trouble]] | Twin enables prediction → prevention → zero trouble |
 
 ---
 

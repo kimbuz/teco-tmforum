@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f2538b8c2c7fe4",
+        "id": "6e5576de1e5d6e97",
         "type": "tabs",
         "children": [
           {
-            "id": "45a8f7353309e4d3",
+            "id": "a4e47ce056daf075",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "use-cases/04-TM-Forum-Level4-Certification.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-TM-Forum-Level4-Certification"
             }
           }
         ]
@@ -175,23 +179,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "45a8f7353309e4d3",
+  "active": "a4e47ce056daf075",
   "lastOpenFiles": [
+    "use-cases/03-AI-Centric-Transmission-Network.md",
+    "use-cases/02-RAN-Automation-EIAP-rApps.md",
+    "use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md",
     "dtw-ignite-prep/07-My-Agenda-AI-Fault-Management.md",
     "dtw-ignite-prep/06-Publications-and-Reports.md",
     "dtw-ignite-prep/05-Catalyst-Projects-2025-2026.md",
-    "dtw-ignite-prep/04-Agentic-AI-in-Telco.md",
-    "dtw-ignite-prep/03-Autonomous-Networks.md",
     "dtw-ignite-prep/02-DTW-Ignite-2026-Event-Guide.md",
+    "dtw-ignite-prep/03-Autonomous-Networks.md",
+    "dtw-ignite-prep/04-Agentic-AI-in-Telco.md",
     "dtw-ignite-prep/01-TM-Forum-Overview.md",
-    "dtw-ignite-prep/00-DTW-Ignite-2026.md",
-    "README.md",
-    "use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md",
-    "use-cases/00-Use-Cases-Index.md",
     "examples/03-Level-3-Conditional-Autonomous.md",
     "examples/02-Level-2-Partial-Autonomous.md",
-    "knowledge/08-rApps-and-SMO.md",
-    "knowledge/02-Autonomous-Networks-Levels.md",
-    "knowledge/01-Zero-X.md"
+    "examples/01-Level-1-Assisted-Operations.md",
+    "examples/00-AN-Levels-Examples.md",
+    "knowledge/03-Closed-Loop-Automation.md",
+    "use-cases/08-Data-Mesh-Fabric-Unified-Knowledge-Layer.md",
+    "use-cases/00-Use-Cases-Index.md",
+    "README.md",
+    "use-cases/07-Data-Model-CFS-RFS-Catalog-for-AN.md",
+    "use-cases/06-AWS-Multi-Agent-Network-Operations.md",
+    "use-cases/05-AWS-Agentic-rApp-as-a-Service.md",
+    "use-cases/04-TM-Forum-Level4-Certification.md",
+    "our-cases/00-Telecom-Argentina.md",
+    "knowledge/14-SID-Examples.md",
+    "knowledge/13-One-View-All-Layers.md",
+    "knowledge/12-SID-Information-Framework.md"
   ]
 }

@@ -133,6 +133,7 @@ User: "What is the status of site_dallas_001?"
 ## Key Technical Details
 
 ### Foundation Models Used
+
 | Agent | Model | Rationale |
 |-------|-------|-----------|
 | Supervisor | Amazon Nova Pro | Complex reasoning and coordination |

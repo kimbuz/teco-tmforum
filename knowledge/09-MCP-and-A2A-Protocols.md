@@ -78,7 +78,7 @@ Agents from different vendors can discover each other, negotiate capabilities, d
 | **Purpose** | Agent ↔ Data/Tools | Agent ↔ Agent |
 | **Pattern** | Client-server | Peer-to-peer |
 | **Analogy** | "How agents read/write data" | "How agents talk to each other" |
-| **Complementary?** | Yes — used together |  |
+| **Complementary?** | Yes — used together | Yes — used together |
 
 They solve different problems and are used together:
 - **MCP** = how an agent accesses information
@@ -102,11 +102,11 @@ They solve different problems and are used together:
 
 | Concept | Connection |
 |---------|-----------|
-| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Mesh/Fabric]] | MCP is the access protocol for the unified knowledge layer |
-| [[04-Agentic-AI-in-Telco|Agentic AI]] | A2A enables the multi-agent collaboration pattern |
-| [[08-rApps-and-SMO|rApps]] | Ericsson rApp aaS exposes results via MCP and A2A |
-| [[06-Open-Digital-Architecture-ODA|ODA]] | MCP could complement Open APIs for AI-native access |
-| [[03-Closed-Loop-Automation|Closed-Loop]] | A2A enables cross-domain closed loops between vendor agents |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer\|Data Mesh/Fabric]] | MCP is the access protocol for the unified knowledge layer |
+| [[04-Agentic-AI-in-Telco\|Agentic AI]] | A2A enables the multi-agent collaboration pattern |
+| [[08-rApps-and-SMO\|rApps]] | Ericsson rApp aaS exposes results via MCP and A2A |
+| [[06-Open-Digital-Architecture-ODA\|ODA]] | MCP could complement Open APIs for AI-native access |
+| [[03-Closed-Loop-Automation\|Closed-Loop]] | A2A enables cross-domain closed loops between vendor agents |
 
 ---
 

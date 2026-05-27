@@ -30,6 +30,7 @@ The system provides information and assistance, but **humans execute all tasks a
 **Human still does:** Decides where to deploy, validates config is correct, activates the cell for traffic.
 
 **Vendors:**
+
 | Vendor | Product | How It Works |
 |--------|---------|-------------|
 | Ericsson | ENM (Ericsson Network Manager) | Auto-integration of new RAN nodes |
@@ -42,6 +43,7 @@ The system provides information and assistance, but **humans execute all tasks a
 **Human still does:** Identifies degraded cells, decides priority, assigns engineers.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Ericsson | Ericsson Expert Analytics (EEA) |
@@ -64,6 +66,7 @@ The system provides information and assistance, but **humans execute all tasks a
 **Human still does:** Triggers service activation, assigns VLAN/speed profile, validates connectivity.
 
 **Vendors:**
+
 | Vendor | Product | Protocol |
 |--------|---------|----------|
 | Huawei | NCE-FAN (Fixed Access Network) | OMCI, TR-069 |
@@ -82,6 +85,7 @@ The system provides information and assistance, but **humans execute all tasks a
 **Human still does:** Interprets data, decides if issue is CPE, access, or core, guides customer.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Nokia | WiFi Care / Corteca |

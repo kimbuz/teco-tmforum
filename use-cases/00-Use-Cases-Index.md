@@ -11,75 +11,75 @@ Real-world deployments, reference architectures, and data foundations for Autono
 ## Use Cases Documented
 
 ### Operator Deployments (MasOrange — Spain, L4 Certified)
+
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 01 | [[01-GraphML-AIOps-Root-Cause-Analysis|GraphML-Powered AIOps & Root Cause Analysis]] | Google Cloud + NetAI + GNN + Digital Twin | PoC demonstrated at MWC 2026 |
-| 02 | [[02-RAN-Automation-EIAP-rApps|RAN Automation with Ericsson EIAP & rApps]] | Ericsson EIAP + SMO + rApps | Production (Dec 2025) |
-| 03 | [[03-AI-Centric-Transmission-Network|AI-Centric Transmission Network]] | AI/ML + Intent-Based Orchestration | Production (2025–2026) |
-| 04 | [[04-TM-Forum-Level4-Certification|TM Forum Level 4 Certification]] | Full AN architecture | Certified May 2026 |
+| 01 | [[01-GraphML-AIOps-Root-Cause-Analysis\|GraphML-Powered AIOps & Root Cause Analysis]] | Google Cloud + NetAI + GNN + Digital Twin | PoC demonstrated at MWC 2026 |
+| 02 | [[02-RAN-Automation-EIAP-rApps\|RAN Automation with Ericsson EIAP & rApps]] | Ericsson EIAP + SMO + rApps | Production (Dec 2025) |
+| 03 | [[03-AI-Centric-Transmission-Network\|AI-Centric Transmission Network]] | AI/ML + Intent-Based Orchestration | Production (2025–2026) |
+| 04 | [[04-TM-Forum-Level4-Certification\|TM Forum Level 4 Certification]] | Full AN architecture | Certified May 2026 |
 
 ### AWS-Based Deployments & Architectures
+
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 05 | [[05-AWS-Agentic-rApp-as-a-Service|Ericsson Agentic rApp as a Service on AWS]] | AWS Bedrock + SageMaker + Ericsson EIAP | Production (60+ CSPs) |
-| 06 | [[06-AWS-Multi-Agent-Network-Operations|AWS Multi-Agent Network Operations]] | Amazon Bedrock Agents + Nova + Lambda | Open-source reference architecture |
+| 05 | [[05-AWS-Agentic-rApp-as-a-Service\|Ericsson Agentic rApp as a Service on AWS]] | AWS Bedrock + SageMaker + Ericsson EIAP | Production (60+ CSPs) |
+| 06 | [[06-AWS-Multi-Agent-Network-Operations\|AWS Multi-Agent Network Operations]] | Amazon Bedrock Agents + Nova + Lambda | Open-source reference architecture |
 
 ### Data Architecture & Foundations
+
 | # | Use Case | Key Technology | Status |
 |---|----------|---------------|--------|
-| 07 | [[07-Data-Model-CFS-RFS-Catalog-for-AN|Data Model: CFS/RFS/Catalog for AN]] | TM Forum PSR + Graph DB + Digital Twin | Architecture guidance |
-| 08 | [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Mesh/Fabric & Unified Knowledge Layer]] | Data Mesh + Knowledge Graph + MCP + Federated Governance | Industry convergence (2025–2026) |
+| 07 | [[07-Data-Model-CFS-RFS-Catalog-for-AN\|Data Model: CFS/RFS/Catalog for AN]] | TM Forum PSR + Graph DB + Digital Twin | Architecture guidance |
+| 08 | [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer\|Data Mesh/Fabric & Unified Knowledge Layer]] | Data Mesh + Knowledge Graph + MCP + Federated Governance | Industry convergence (2025–2026) |
 
 ---
 
 ## Generic Architecture (Autonomous Network Stack)
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    Autonomous Network Architecture                    │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                       │
-│  ┌─────────────┐   ┌──────────────┐   ┌──────────────────────────┐ │
-│  │  INTENT     │   │  AI/ML       │   │  CLOSED-LOOP             │ │
-│  │  LAYER      │   │  ENGINE      │   │  AUTOMATION              │ │
-│  │             │   │              │   │                          │ │
-│  │ Business    │──▶│ GNN / LLM /  │──▶│ Detect → Analyze → Act  │ │
-│  │ Intent      │   │ Predictions  │   │ Self-Heal / Self-Optimize│ │
-│  │ Definition  │   │ Digital Twin │   │ Zero-Touch Operations    │ │
-│  └─────────────┘   └──────────────┘   └──────────────────────────┘ │
-│         │                  │                       │                  │
-│         ▼                  ▼                       ▼                  │
-│  ┌─────────────────────────────────────────────────────────────────┐│
-│  │              PLATFORM LAYER                                      ││
-│  │                                                                   ││
-│  │  ┌──────────┐  ┌──────────────┐  ┌────────────┐  ┌───────────┐ ││
-│  │  │ SMO /    │  │ Cloud AI     │  │  Network   │  │  Open     │ ││
-│  │  │ EIAP /   │  │ (Bedrock,    │  │  Digital   │  │  APIs     │ ││
-│  │  │ rApps    │  │  Vertex AI)  │  │  Twin      │  │  (TMF)    │ ││
-│  │  └──────────┘  └──────────────┘  └────────────┘  └───────────┘ ││
-│  └─────────────────────────────────────────────────────────────────┘│
-│         │                  │                       │                  │
-│         ▼                  ▼                       ▼                  │
-│  ┌─────────────────────────────────────────────────────────────────┐│
-│  │              DATA / KNOWLEDGE LAYER                               ││
-│  │                                                                   ││
-│  │  ┌──────────┐  ┌──────────────┐  ┌────────────┐  ┌───────────┐ ││
-│  │  │ Knowledge│  │ Data Fabric/ │  │  CFS/RFS   │  │  MCP /    │ ││
-│  │  │ Graph    │  │ Mesh         │  │  Inventory │  │  A2A      │ ││
-│  │  └──────────┘  └──────────────┘  └────────────┘  └───────────┘ ││
-│  └─────────────────────────────────────────────────────────────────┘│
-│         │                  │                       │                  │
-│         ▼                  ▼                       ▼                  │
-│  ┌─────────────────────────────────────────────────────────────────┐│
-│  │              NETWORK LAYER (Any domain)                          ││
-│  │                                                                   ││
-│  │  ┌──────────┐  ┌──────────────┐  ┌────────────┐  ┌───────────┐ ││
-│  │  │  RAN     │  │  Transport / │  │  Core      │  │  Fixed /  │ ││
-│  │  │  (Mobile)│  │  Optical     │  │  Network   │  │  Fiber    │ ││
-│  │  └──────────┘  └──────────────┘  └────────────┘  └───────────┘ ││
-│  └─────────────────────────────────────────────────────────────────┘│
-│                                                                       │
-└─────────────────────────────────────────────────────────────────────┘
+```mermaid
+graph TD
+    subgraph Intent Layer
+        IL[Business Intent Definition]
+    end
+    subgraph AI/ML Engine
+        AI[GNN / LLM / Predictions / Digital Twin]
+    end
+    subgraph Closed-Loop Automation
+        CL[Detect → Analyze → Act / Self-Heal / Zero-Touch]
+    end
+    subgraph Platform Layer
+        SMO[SMO / EIAP / rApps]
+        CLOUD[Cloud AI - Bedrock / Vertex AI]
+        DT[Network Digital Twin]
+        API[Open APIs - TMF]
+    end
+    subgraph Data / Knowledge Layer
+        KG[Knowledge Graph]
+        DF[Data Fabric / Mesh]
+        INV[CFS/RFS Inventory]
+        PROTO[MCP / A2A]
+    end
+    subgraph Network Layer
+        RAN[RAN - Mobile]
+        TRANS[Transport / Optical]
+        CORE[Core Network]
+        FIXED[Fixed / Fiber]
+    end
+
+    IL --> AI --> CL
+    CL --> SMO
+    CL --> CLOUD
+    CL --> DT
+    CL --> API
+    SMO --> KG
+    CLOUD --> DF
+    DT --> INV
+    API --> PROTO
+    KG --> RAN
+    DF --> TRANS
+    INV --> CORE
+    PROTO --> FIXED
 ```
 
 ---

@@ -30,6 +30,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 **Human still does:** Sets optimization objectives, defines boundaries, reviews weekly reports, handles exceptions.
 
 **SON Functions:**
+
 | Function | What It Does | Abbreviation |
 |----------|-------------|-------------|
 | Automatic Neighbor Relations | Discovers and maintains neighbor cell lists | ANR |
@@ -42,6 +43,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 | Cell Outage Compensation | Adjusts neighbors when a cell fails | COC |
 
 **Vendors:**
+
 | Vendor | Product | Deployment |
 |--------|---------|-----------|
 | Ericsson | SON features in ENM + EIAP | Embedded in RAN management |
@@ -57,6 +59,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 **Human still does:** Validates the correlation, approves the fix, dispatches if needed.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | IBM | Netcool/OMNIbus + Impact |
@@ -71,6 +74,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 **Human still does:** Designs the workflow, handles exceptions/failures, approves complex orders.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Nokia | Nokia NSP (Network Services Platform) |
@@ -91,6 +95,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 **Human still does:** Handles exceptions (wrong ONT, fiber not connected), validates complex orders.
 
 **Vendors:**
+
 | Vendor | Product | How |
 |--------|---------|-----|
 | Nokia | Altiplano Access Controller | NETCONF/YANG to OLTs, policy-driven |
@@ -110,6 +115,7 @@ The system **executes specific tasks under human supervision**. Humans still mak
 **Human still does:** Approves the maintenance window, reviews post-change report.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Cisco | Crosswork Change Automation |

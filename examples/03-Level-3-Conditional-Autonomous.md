@@ -32,6 +32,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Key difference from L2 SON:** L2 SON uses static rules ("if load > 80%, activate MLB"). L3 uses ML models that learn patterns and make novel decisions the rules never anticipated.
 
 **Vendors:**
+
 | Vendor | Product | Key Capability |
 |--------|---------|---------------|
 | Ericsson | EIAP + rApps (Cell Anomaly Detector) | AI-driven anomaly detection and auto-remediation |
@@ -48,6 +49,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Dispatches field team for physical repair, reviews prediction accuracy.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Ericsson | Cognitive Software (predictive analytics) |
@@ -61,6 +63,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Defines slice SLA contracts, handles inter-slice conflicts that exceed policy.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Ericsson | Ericsson Orchestrator + 5G Core |
@@ -75,6 +78,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Sets energy saving targets, defines "never sleep" cells (hospitals, airports).
 
 **Vendors:**
+
 | Vendor | Product | Claimed Savings |
 |--------|---------|----------------|
 | Ericsson | rApp: RAN Energy Saver | 15–20% energy reduction |
@@ -92,6 +96,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Dispatches field crew, validates prediction accuracy over time.
 
 **Vendors:**
+
 | Vendor | Product | How |
 |--------|---------|-----|
 | Nokia | Altiplano + Fiber Sensing | AI on optical telemetry |
@@ -106,6 +111,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Nothing for standard cases. Handles complex multi-AP deployments.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Nokia | WiFi Care (Corteca) |
@@ -120,6 +126,7 @@ The system **makes decisions and executes within specific domains** without aski
 **Human still does:** Handles physical layer faults requiring field visit.
 
 **Vendors:**
+
 | Vendor | Product |
 |--------|---------|
 | Nokia | Altiplano Diagnostics |

@@ -79,58 +79,72 @@ The MDA project examines:
 ## How They Solve the "Tons of Connections" Problem
 
 ### The Problem (Traditional Approach)
-```
-┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐
-│ OSS  │    │ BSS  │    │ NMS  │    │ EMS  │    │ CRM  │
-└──┬───┘    └──┬───┘    └──┬───┘    └──┬───┘    └──┬───┘
-   │           │           │           │           │
-   ├───────────┼───────────┼───────────┼───────────┤  N×N connections
-   │           │           │           │           │  (spaghetti)
-   ▼           ▼           ▼           ▼           ▼
-┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐
-│AI App│    │AI App│    │AI App│    │AI App│    │AI App│
-│  1   │    │  2   │    │  3   │    │  4   │    │  5   │
-└──────┘    └──────┘    └──────┘    └──────┘    └──────┘
+```mermaid
+graph TD
+    subgraph Source Systems
+        OSS[OSS]
+        BSS[BSS]
+        NMS[NMS]
+        EMS[EMS]
+        CRM[CRM]
+    end
+    subgraph AI Applications
+        A1[AI App 1]
+        A2[AI App 2]
+        A3[AI App 3]
+        A4[AI App 4]
+        A5[AI App 5]
+    end
+
+    OSS --> A1
+    OSS --> A2
+    OSS --> A3
+    BSS --> A1
+    BSS --> A4
+    NMS --> A2
+    NMS --> A3
+    NMS --> A5
+    EMS --> A3
+    EMS --> A4
+    CRM --> A5
+    CRM --> A1
 ```
 
 ### The Solution (Unified Knowledge Layer)
-```
-┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐
-│ OSS  │    │ BSS  │    │ NMS  │    │ EMS  │    │ CRM  │
-└──┬───┘    └──┬───┘    └──┬───┘    └──┬───┘    └──┬───┘
-   │           │           │           │           │
-   └───────────┴───────────┴───────────┴───────────┘
-                           │
-                           ▼
-   ┌───────────────────────────────────────────────────┐
-   │     UNIFIED KNOWLEDGE LAYER                        │
-   │                                                     │
-   │  ┌─────────────────────────────────────────────┐  │
-   │  │  Knowledge Graph / Digital Twin              │  │
-   │  │  (Topology + State + Config + Metrics)       │  │
-   │  └─────────────────────────────────────────────┘  │
-   │  ┌─────────────────────────────────────────────┐  │
-   │  │  Semantic Ontology (TM Forum SID-based)      │  │
-   │  │  (Common vocabulary, standard data model)    │  │
-   │  └─────────────────────────────────────────────┘  │
-   │  ┌─────────────────────────────────────────────┐  │
-   │  │  Federated Governance                        │  │
-   │  │  (Access control, data quality, lineage)     │  │
-   │  └─────────────────────────────────────────────┘  │
-   │  ┌─────────────────────────────────────────────┐  │
-   │  │  Standardized Access (APIs, MCP, A2A)        │  │
-   │  │  (Any agent/app can query uniformly)         │  │
-   │  └─────────────────────────────────────────────┘  │
-   └───────────────────────┬───────────────────────────┘
-                           │
-   ┌───────────┬───────────┼───────────┬───────────┐
-   │           │           │           │           │
-   ▼           ▼           ▼           ▼           ▼
-┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐    ┌──────┐
-│AI    │    │AI    │    │AI    │    │AI    │    │AI    │
-│Agent │    │Agent │    │Agent │    │Agent │    │Agent │
-│(RCA) │    │(Optim│    │(Heal)│    │(Plan)│    │(CX)  │
-└──────┘    └──────┘    └──────┘    └──────┘    └──────┘
+```mermaid
+graph TD
+    subgraph Source Systems
+        OSS[OSS]
+        BSS[BSS]
+        NMS[NMS]
+        EMS[EMS]
+        CRM[CRM]
+    end
+    subgraph Unified Knowledge Layer
+        KG[Knowledge Graph / Digital Twin]
+        ONT[Semantic Ontology - SID]
+        GOV[Federated Governance]
+        ACC[Standardized Access - APIs / MCP / A2A]
+    end
+    subgraph AI Agents
+        A1[AI Agent - RCA]
+        A2[AI Agent - Optimization]
+        A3[AI Agent - Healing]
+        A4[AI Agent - Planning]
+        A5[AI Agent - CX]
+    end
+
+    OSS --> KG
+    BSS --> KG
+    NMS --> KG
+    EMS --> KG
+    CRM --> KG
+    KG --> ONT --> GOV --> ACC
+    ACC --> A1
+    ACC --> A2
+    ACC --> A3
+    ACC --> A4
+    ACC --> A5
 ```
 
 ---

@@ -192,12 +192,12 @@ sequenceDiagram
 
 | Concept | Connection |
 |---------|-----------|
-| [[06-Open-Digital-Architecture-ODA|ODA]] | ODA Components manage catalogs and inventories |
-| [[05-Digital-Twin|Digital Twin]] | CFS/RFS topology is a layer within the digital twin |
-| [[07-Knowledge-Graph|Knowledge Graph]] | CFS→RFS→Resource chains are graph paths |
-| [[04-Intent-Based-Management|Intent-Based Management]] | Intent decomposes through CFS/RFS rules |
-| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Catalogs/inventories are key data products in the fabric |
-| [[01-Zero-X|Zero Wait]] | Automated catalog-driven provisioning enables instant delivery |
+| [[06-Open-Digital-Architecture-ODA\|ODA]] | ODA Components manage catalogs and inventories |
+| [[05-Digital-Twin\|Digital Twin]] | CFS/RFS topology is a layer within the digital twin |
+| [[07-Knowledge-Graph\|Knowledge Graph]] | CFS→RFS→Resource chains are graph paths |
+| [[04-Intent-Based-Management\|Intent-Based Management]] | Intent decomposes through CFS/RFS rules |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer\|Data Fabric]] | Catalogs/inventories are key data products in the fabric |
+| [[01-Zero-X\|Zero Wait]] | Automated catalog-driven provisioning enables instant delivery |
 
 ---
 

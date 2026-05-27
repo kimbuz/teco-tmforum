@@ -128,10 +128,10 @@ The article "Zero as a Navigation Compass" (September 2023) by **Matias Lambert,
 
 | Concept | Relationship to Zero-X |
 |---------|----------------------|
-| [[03-Autonomous-Networks|Autonomous Networks Levels (L0-L5)]] | Zero-X is the target state; AN Levels measure progress toward it |
-| [[04-TM-Forum-Level4-Certification|Closed-Loop Automation]] | The mechanism that enables Zero Touch and Zero Trouble |
-| [[07-Data-Model-CFS-RFS-Catalog-for-AN|Intent-Based Management]] | Enables Zero Wait by translating business intent to instant action |
-| [[04-Agentic-AI-in-Telco|Agentic AI]] | AI agents are the workforce that delivers Zero-X at scale |
+| [[03-Autonomous-Networks\|Autonomous Networks Levels (L0-L5)]] | Zero-X is the target state; AN Levels measure progress toward it |
+| [[04-TM-Forum-Level4-Certification\|Closed-Loop Automation]] | The mechanism that enables Zero Touch and Zero Trouble |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN\|Intent-Based Management]] | Enables Zero Wait by translating business intent to instant action |
+| [[04-Agentic-AI-in-Telco\|Agentic AI]] | AI agents are the workforce that delivers Zero-X at scale |
 | Self-Healing Networks | Direct implementation of Zero Trouble |
 | Zero Touch Provisioning (ZTP) | Specific implementation of Zero Touch for device onboarding |
 

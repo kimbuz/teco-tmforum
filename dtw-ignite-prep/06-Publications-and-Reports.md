@@ -114,6 +114,7 @@ tags: [dtw-2026, publications, reports, research]
 ## TM Forum Standards & Specifications
 
 ### Key Standards Documents:
+
 | Document | Title |
 |----------|-------|
 | TR290 | Autonomous Networks Technical Report |

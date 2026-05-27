@@ -81,10 +81,10 @@ See: [[01-GraphML-AIOps-Root-Cause-Analysis|Use Case 01 — GraphML AIOps]] for 
 
 | Concept | Connection |
 |---------|-----------|
-| [[05-Digital-Twin|Digital Twin]] | A digital twin IS a knowledge graph with real-time state |
-| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer|Data Fabric]] | Knowledge graph is the semantic backbone of a data fabric |
-| [[01-GraphML-AIOps-Root-Cause-Analysis|Root Cause Analysis]] | GNNs on knowledge graphs enable deterministic RCA |
-| [[07-Data-Model-CFS-RFS-Catalog-for-AN|CFS/RFS]] | Service topology is a subgraph within the knowledge graph |
+| [[05-Digital-Twin\|Digital Twin]] | A digital twin IS a knowledge graph with real-time state |
+| [[08-Data-Mesh-Fabric-Unified-Knowledge-Layer\|Data Fabric]] | Knowledge graph is the semantic backbone of a data fabric |
+| [[01-GraphML-AIOps-Root-Cause-Analysis\|Root Cause Analysis]] | GNNs on knowledge graphs enable deterministic RCA |
+| [[07-Data-Model-CFS-RFS-Catalog-for-AN\|CFS/RFS]] | Service topology is a subgraph within the knowledge graph |
 
 ---
 

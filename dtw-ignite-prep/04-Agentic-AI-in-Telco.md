@@ -59,6 +59,7 @@ Siloed automation fails because telecom networks are inherently multi-domain, mu
 ## Agentic AI Use Cases in Telco
 
 ### Network Operations
+
 | Use Case | Description |
 |----------|-------------|
 | Autonomous fault resolution | Agents detect, diagnose, and fix network faults without human intervention |
@@ -67,6 +68,7 @@ Siloed automation fails because telecom networks are inherently multi-domain, mu
 | Capacity planning | Agents forecast demand and provision resources proactively |
 
 ### Customer Experience
+
 | Use Case | Description |
 |----------|-------------|
 | Proactive customer care | Agents detect service degradation and resolve before customer notices |
@@ -74,6 +76,7 @@ Siloed automation fails because telecom networks are inherently multi-domain, mu
 | Automated complaint resolution | Agents handle customer issues end-to-end |
 
 ### Business Operations
+
 | Use Case | Description |
 |----------|-------------|
 | B2B sales automation | Agents handle quoting and commerce for enterprise customers |
