@@ -35,9 +35,15 @@ teco-tmforum/
 |-- our-cases/                       <- Telecom Argentina's own involvement
 |   +-- 00-README.md                 AN Manifesto, publications, partnerships
 |
-+-- knowledge/                       <- Concepts and definitions
-    |-- 00-README.md                 Index of knowledge articles
-    +-- 01-Zero-X.md                 Zero Wait, Zero Touch, Zero Trouble
+|-- knowledge/                       <- Concepts and definitions
+|   |-- 00-README.md                 Index of knowledge articles
+|   +-- 01-Zero-X.md ... 14          Zero-X, AN Levels, ODA, SID, etc.
+|
++-- examples/                        <- AN Levels L1-L3 in production
+    |-- 00-README.md                 Overview and comparison
+    |-- 01-Level-1-Assisted-Operations.md    ZTP, dashboards, alerting
+    |-- 02-Level-2-Partial-Autonomous.md     SON, orchestrators, playbooks
+    +-- 03-Level-3-Conditional-Autonomous.md AI decisions within domains
 ```
 
 ---
@@ -50,6 +56,7 @@ teco-tmforum/
 | [use-cases/](./use-cases/00-README.md) | Real deployments, AWS architectures, data models | How it works in practice |
 | [our-cases/](./our-cases/00-README.md) | Telecom Argentina's TM Forum involvement | Our company's position |
 | [knowledge/](./knowledge/00-README.md) | Concepts and definitions (Zero-X, AN Levels, etc.) | Learn the fundamentals |
+| [examples/](./examples/00-README.md) | AN Levels L1–L3 in production today (vendors, tech, open source) | What exists before L4 |
 
 ---
 
