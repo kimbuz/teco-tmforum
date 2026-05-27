@@ -19,7 +19,8 @@ teco-tmforum/
 |   |-- 03-Autonomous-Networks.md    AN levels L0-L5, industry status
 |   |-- 04-Agentic-AI-in-Telco.md   Multi-agent systems, Agentic ODA
 |   |-- 05-Catalyst-Projects-2025-2026.md  15 active innovation projects
-|   +-- 06-Publications-and-Reports.md    All relevant publications
+|   |-- 06-Publications-and-Reports.md    All relevant publications
+|   +-- 07-My-Agenda-AI-Fault-Management.md  Curated sessions + 3-day calendar
 |
 |-- use-cases/                       <- Real-world deployments and architectures
 |   |-- 00-README.md                 Index, key questions answered
@@ -37,7 +38,20 @@ teco-tmforum/
 |
 |-- knowledge/                       <- Concepts and definitions
 |   |-- 00-README.md                 Index of knowledge articles
-|   +-- 01-Zero-X.md ... 14          Zero-X, AN Levels, ODA, SID, etc.
+|   |-- 01-Zero-X.md                 Zero Wait, Zero Touch, Zero Trouble
+|   |-- 02-Autonomous-Networks-Levels.md  L0-L5 definitions and assessment
+|   |-- 03-Closed-Loop-Automation.md Observe-Analyze-Decide-Act-Verify
+|   |-- 04-Intent-Based-Management.md  Declare outcomes, not configs
+|   |-- 05-Digital-Twin.md           Real-time virtual network replica
+|   |-- 06-Open-Digital-Architecture-ODA.md  TM Forum modular blueprint
+|   |-- 07-Knowledge-Graph.md        Network as nodes and edges
+|   |-- 08-rApps-and-SMO.md          RAN automation on O-RAN platform
+|   |-- 09-MCP-and-A2A-Protocols.md  Agent-to-data and agent-to-agent
+|   |-- 10-AIOps.md                  AI for operations
+|   |-- 11-CFS-RFS-Catalog-Inventory.md  Product-Service-Resource model
+|   |-- 12-SID-Information-Framework.md  TM Forum common data model
+|   |-- 13-One-View-All-Layers.md    How all concepts fit together
+|   +-- 14-SID-Examples.md           Concrete JSON examples
 |
 +-- examples/                        <- AN Levels L1-L3 in production
     |-- 00-README.md                 Overview and comparison
@@ -82,6 +96,7 @@ teco-tmforum/
 | Location | Bella Center, Copenhagen, Denmark |
 | Theme | "The Future. Faster." |
 | Website | https://dtw.tmforum.org/ |
+| My Agenda | [AI for Fault Management — 3-Day Plan](./dtw-ignite-prep/07-My-Agenda-AI-Fault-Management.md) |
 
 ---
 

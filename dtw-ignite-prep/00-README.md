@@ -18,6 +18,7 @@
 | 04 | [Agentic AI in Telco](./04-Agentic-AI-in-Telco.md) | Multi-agent systems, use cases, Agentic ODA, CSP strategies |
 | 05 | [Catalyst Projects 2025–2026](./05-Catalyst-Projects-2025-2026.md) | 15 active Catalyst projects on AI, agents, and autonomous networks |
 | 06 | [Publications & Reports](./06-Publications-and-Reports.md) | Complete list of TM Forum reports, articles, and external publications |
+| 07 | [My Agenda: AI for Fault Management](./07-My-Agenda-AI-Fault-Management.md) | Curated sessions, masterclasses, catalysts, and 3-day plan |
 
 Also see: **[../use-cases/](../use-cases/)** — Real-world deployments, AWS architectures, data models, and Data Mesh/Fabric patterns.
 
