@@ -71,6 +71,7 @@ teco-tmforum/
 | [our-cases/](./our-cases/00-Telecom-Argentina.md) | Telecom Argentina's TM Forum involvement | Our company's position |
 | [knowledge/](./knowledge/00-Knowledge-Index.md) | Concepts and definitions (Zero-X, AN Levels, etc.) | Learn the fundamentals |
 | [examples/](./examples/00-AN-Levels-Examples.md) | AN Levels L1–L3 in production today (vendors, tech, open source) | What exists before L4 |
+| [listen/](./listen/00-Listen-Index.md) | Audiolibro en español — 5 episodios para escuchar viajando | Aprender en el camino |
 
 ---
 

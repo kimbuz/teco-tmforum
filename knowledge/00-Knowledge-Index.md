@@ -26,6 +26,7 @@ Foundational concepts, frameworks, and definitions referenced across this projec
 | 12 | [[12-SID-Information-Framework\|SID — Information Framework]] | TM Forum's common data model and vocabulary (the ontology) |
 | 13 | [[13-One-View-All-Layers\|One View, All Layers]] | How SID, ODA, CFS, RFS, Catalog, Inventory & Digital Twin fit together |
 | 14 | [[14-SID-Examples\|SID in Practice — Examples]] | Concrete JSON examples of SID entities (Service, Resource, Catalog) |
+| 15 | [[15-L4-Without-GenAI\|L4 Without GenAI]] | Can you achieve Level 4 without Generative AI? Yes — here's how |
 
 ---
 

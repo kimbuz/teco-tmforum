@@ -83,6 +83,29 @@ This vault is used in **Obsidian** — all content must be Obsidian-compatible a
 6. Do not duplicate content across files — link to the relevant document instead.
 7. Mark deployment status clearly: `Production`, `PoC`, `Demo`, `Announced`.
 
+## Language Rules
+
+1. **All documents are written in English** — knowledge, use-cases, examples, dtw-ignite-prep, our-cases.
+2. **Only the `listen/` folder is in Spanish** — these are audio scripts for TTS (text-to-speech).
+3. In `listen/` files, do NOT translate technical English terms that sound bad in Spanish TTS. Keep them in English:
+   - Zero Wait, Zero Touch, Zero Trouble, Zero-X
+   - Self-healing, self-optimization, self-configuration
+   - CFS, RFS, Customer Facing Service, Resource Facing Service
+   - Knowledge graph, digital twin, closed-loop, intent-based
+   - Machine learning, throughput, downlink, uplink, dashboard, playbook
+   - Root cause analysis, Mean Time to Repair (MTTR)
+   - Open source, cloud-native, SaaS, vendor/vendors
+   - Graph Neural Networks (GNN), Large Language Models (LLM)
+   - Any acronym or proper noun (ODA, SID, eTOM, ANLET, MCP, A2A, rApps, SMO, EIAP)
+4. The `listen/` text should read as natural Spanglish — Spanish narrative with English technical terms, as telecom professionals speak in Latin America.
+
+## Listen Folder Rules
+
+1. Episodes are designed to be read aloud by TTS — no tables, no diagrams, no markdown formatting. Pure narrative text.
+2. Episode ordering: foundational concepts first (01, 02, 03...), then specific technical topics, then **vendor cases (98) and DTW briefing (99) always at the end**.
+3. Closing episodes use numbers **98** and **99** so they always sort last. New episodes use the next available number after the last topic episode (08, 09, 10...) — no need to renumber the closing ones.
+4. When adding new listen episodes: just use the next number. The 98/99 files stay in place permanently.
+
 ## When Researching
 
 1. Always search for the latest information (prioritize 2025-2026 sources).
@@ -102,6 +125,7 @@ teco-tmforum/
 |-- our-cases/             Telecom Argentina's own involvement
 |-- knowledge/             Concepts, definitions, and frameworks (educational)
 |-- examples/              AN Levels L1-L3 with vendors and open source
+|-- listen/                Audio episodes in Spanish for TTS (Spanglish)
 |-- .obsidian/             Vault configuration (do not edit manually)
 +-- .kiro/                 Kiro steering rules
 ```
