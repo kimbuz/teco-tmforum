@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5576de1e5d6e97",
+        "id": "d886958914f35cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e47ce056daf075",
+            "id": "3eb21d1887c88642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -179,8 +175,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a4e47ce056daf075",
+  "active": "58fdd4c03550bb04",
   "lastOpenFiles": [
+    "infographic/The Journey to Autonomous Networks.png",
+    "infographic/Telecom Agentic Network Infographic.png",
+    "infographic/Autonomous Telco Network PSR Model.png",
+    "infographic/Zero-X Navigational Compass.png",
+    "infographic/Global Autonomous Network Success Stories.png",
+    "infographic/GenAI in Autonomous Networks.png",
+    "infographic/Strategic Roadmap for Network Autonomy.png",
+    "infographic/Mastering Self-Healing Network Automation.png",
+    "infographic/The Path to Autonomous Networks.png",
+    "listen/02-Niveles-de-Autonomia.md",
+    "listen/01-Que-Son-Las-Redes-Autonomas.md",
+    "README.md",
+    "infographic",
     "listen/99-Que-Esperar-en-DTW.md",
     "listen/98-Casos-Reales-y-Vendors.md",
     "listen/09-Que-Esperar-en-DTW.md",
@@ -200,13 +209,9 @@
     "listen/05-Casos-Reales-y-Vendors.md",
     "listen/04-Catalogos-Servicios-Inventarios.md",
     "listen/03-IA-Generativa-y-Agentes.md",
-    "listen/02-Niveles-de-Autonomia.md",
-    "listen/01-Que-Son-Las-Redes-Autonomas.md",
     "listen/00-Listen-Index.md",
     "listen",
     "use-cases/04-TM-Forum-Level4-Certification.md",
-    "use-cases/03-AI-Centric-Transmission-Network.md",
-    "use-cases/02-RAN-Automation-EIAP-rApps.md",
-    "use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md"
+    "use-cases/03-AI-Centric-Transmission-Network.md"
   ]
 }
