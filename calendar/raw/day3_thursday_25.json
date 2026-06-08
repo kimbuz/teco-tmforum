@@ -1,0 +1,575 @@
+[
+  {
+    "title": "09:00-10:00",
+    "type": "",
+    "date_time": "",
+    "stage": "Composable IT & Ecosystems Mission Garage",
+    "description": "25 June 2026 CIT&E Mission Garage: Day Three morning Step into the Composable IT & Ecosystems Garage to build, test, and refine modular IT solutions alongside fellow innovators.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001jyp3IAA&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:00-10:00",
+      "Composable IT & Ecosystems Mission Garage",
+      "CIT&E Mission Garage: Day Three morning",
+      "Step into the Composable IT & Ecosystems Garage to build, test, and refine modular IT solutions alongside fellow innovators."
+    ],
+    "detail": {
+      "full_title": "CIT&E Mission Garage: Day Three morning",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:00-10:00",
+      "stage": "Composable IT & Ecosystems Mission Garage",
+      "tracks": [
+        "Composable IT & Ecosystems"
+      ],
+      "session_type": "",
+      "description": "CIT&E Mission Garage: Day Three morning\nStep into the Composable IT & Ecosystems Garage to build, test, and refine modular IT solutions alongside fellow innovators.\nWork together on ODA, Open APIs, and ecosystem integration that make composability real through shared expertise and active problem-solving.\nThis is the launchpad for creative collaboration, where you help set the pace for agile, AI-ready IT transformation\nMeet the experts: In-between these sessions come along and meet the experts and find out about how the CIT&E mission is Reinventing IT\n09:00 - 09:20\nODA for space & satellite (SODA)\nThis informal drop-in is a chance to learn more about Space ODAssey (SODA) - TM Forum's initiative to extend ODA into the satellite domain,  and how it aims to simplify and unify space-based services.\nJoin to meet the team, explore the vision, and exchange insights with peers. Share what you're seeing in the market, what's working (and what isn't), and ask questions in an open, collaborative setting.\nDavid Villegas, Founder and Principal Architect, Gauvi\n09:30 - 09:50\nFintech\nSeshan Krishnamurti, Vice President, Covalense Digital",
+      "speakers": []
+    }
+  },
+  {
+    "title": "09:00-13:15",
+    "type": "",
+    "date_time": "",
+    "stage": "TM Forum industry showcase stage",
+    "description": "25 June 2026 AI‑Native ops in action: from slices to self‑healing networks Spend a focused morning on 25 June seeing AI‑native operations made real—from dynamic 5G slice lifecycle management to cross‑domain, self‑healing fault resolution and next‑gen architectures from Huawei and partners. You’ll see how leading operators and vendors are collapsing MTTR, automating complexity across power, RAN and transport, and turning TM Forum blueprints into live, production‑grade network automation patterns you can take home and reuse.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001ewazIAA&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:00-13:15",
+      "TM Forum industry showcase stage",
+      "AI‑Native ops in action: from slices to self‑healing networks",
+      "Spend a focused morning on 25 June seeing AI‑native operations made real—from dynamic 5G slice lifecycle management to cross‑domain, self‑healing fault resolution and next‑gen architectures from Huawei and partners. You’ll see how leading operators and vendors are collapsing MTTR, automating complexity across power, RAN and transport, and turning TM Forum blueprints into live, production‑grade network automation patterns you can take home and reuse."
+    ],
+    "detail": {
+      "full_title": "AI-Native ops in action: from slices to self-healing networks",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:00-13:15",
+      "stage": "TM Forum industry showcase stage",
+      "tracks": [
+        "Autonomous Networks",
+        "AI (Artificial Intelligence)",
+        "Autonomous operations"
+      ],
+      "session_type": "",
+      "description": "AI-Native ops in action: from slices to self-healing networks\nTM Forum Stand\nSpend a focused morning on 25 June seeing AI-native operations made real-from dynamic 5G slice lifecycle management to cross-domain, self-healing fault resolution and next-gen architectures from Huawei and partners. You'll see how leading operators and vendors are collapsing MTTR, automating complexity across power, RAN and transport, and turning TM Forum blueprints into live, production-grade network automation patterns you can take home and reuse.\n09:00 - 09:05 - TM Forum Blueprints for brilliance: Unleashing industry transformation\nReady to see what's next for telecom and connectivity? Join us on stage as TM Forum reveals how our Industry Missions and Open Digital Architecture (ODA) are rewriting the rules for agility, innovation, and growth for the AI-era. Discover how global leaders are collaborating to build AI-ready, cloud-native solutions that simplify operations and unlock new value; hear real-world stories of transformation from concept to cash; and learn how you can be part of the movement that's shaping the future. These sessions throughout the day are your gateway to the industry's most exciting breakthroughs.\nMark Geere, Director Product Marketing, TM Forum\n09:05 - 09:25 - End-to-end 5G dynamic slice management\nThe 5G Dynamic Slicing Project brings industry stakeholders together to demonstrate how 5G network slices can be dynamically created, adapted, and assured to meet diverse enterprise and industry service needs. The project validates TM Forum-aligned architectures and Open APIs through real-world slicing use cases, showcasing closed-loop operations and cross-domain coordination to support interoperable, standards-based adoption and accelerate dynamic network slicing from concept to commercial deployment.\nWei He, Director of ZTE Core Network Intelligent Product Planning, ZTE\n09:25 - 09:45 - End-to-End Autonomous Fault Management across multiple domains\nThis use case presents a comprehensive fault-management solution piloted at China Mobile that identifies and resolves base-station outages caused by failures across power/environment, wireless, and transmission domains. The solution integrates agentic single-domain autonomy and cross-domain orchestration to unify multiple domains, significantly reducing MTTR, minimizing field site visits, and improving customer experience (QoE).\nYao Yuan, China Mobile\n10:05 - 10:25 - Intent based video experience operations\nHow Agentic AI is put into action to improve Video Experience MOS. User sets a target experience level, e.g., a desired MOS score (a numerical measure of the human-judged overall quality of an event or experience, e.g. video calls) and the system automatically determines what needs to change across radio, transport, and content-provider domains. It evaluates options, recommends the best actions, and either executes them automatically or assigns tasks to the appropriate teams. With results showing that targeted MOS scores increased by 5% in cases where close loop automation took control.\nErol Goctu, Head of Business Development/Ericsson Managed Services, Ericsson",
+      "speakers": [
+        {
+          "name": "Mark Geere",
+          "role": "Pd Mkting"
+        },
+        {
+          "name": "Wei He",
+          "role": "Chief Engineer"
+        },
+        {
+          "name": "Yuan Yao",
+          "role": "Autonomous Networks Architect"
+        }
+      ]
+    }
+  },
+  {
+    "title": "09:00-10:30",
+    "type": "Masterclass: Tackling the toughest change challenge: People",
+    "date_time": "",
+    "stage": "Future skills stage",
+    "description": "25 June 2026 Everyone talks about becoming a TechCo, but few can truly measure what’s changing. Transformation isn’t just about technology; it’s about people, culture, and how organizations operate differently. This interactive masterclass explores the critical levers behind that shift and, more importantly, how to track progress with metrics that link directly to real business outcomes like growth and profitability. Come ready to challenge assumptions, benchmark your progress, and define what success actually looks like.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001UKdRIAW&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:00-10:30",
+      "Future skills stage",
+      "Masterclass: Tackling the toughest change challenge: People",
+      "Everyone talks about becoming a TechCo, but few can truly measure what’s changing. Transformation isn’t just about technology; it’s about people, culture, and how organizations operate differently. This interactive masterclass explores the critical levers behind that shift and, more importantly, how to track progress with metrics that link directly to real business outcomes like growth and profitability. Come ready to challenge assumptions, benchmark your progress, and define what success actually looks like."
+    ],
+    "detail": {
+      "full_title": "Masterclass: Tackling the toughest change challenge: People",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:00-10:30",
+      "stage": "Future skills stage",
+      "tracks": [
+        "Leadership",
+        "Skills transformation"
+      ],
+      "session_type": "",
+      "description": "Masterclass: Tackling the toughest change challenge: People\nCulture transformation\nDiversity, equality & inclusion\nOrganizational transformation\nMost transformation programs don't fail on strategy or technology - they fail because change doesn't take hold in people, teams and leadership.\nThis masterclass focuses on three critical questions:\nHow do I diagnose the real barriers to change?\nWhich interventions will genuinely drive impact?\nHow do I measure if change is actually happening?\nThrough an interactive, hands-on format, participants will work through real scenarios and apply practical frameworks to connect people, culture and organisation to measurable outcomes. The outcome is a clear, repeatable approach to diagnosing, prioritising, and measuring change that can be applied immediately.",
+      "speakers": []
+    }
+  },
+  {
+    "title": "09:00-10:30",
+    "type": "Masterclass: Making re-invent IT real",
+    "date_time": "",
+    "stage": "Build Stage",
+    "description": "25 June 2026",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001IqVpIAK&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:00-10:30",
+      "Build Stage",
+      "Masterclass: Making re-invent IT real"
+    ],
+    "detail": {
+      "full_title": "Masterclass: Making re-invent IT real",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:00-10:30",
+      "stage": "",
+      "tracks": [
+        "Composable IT & Ecosystems",
+        "AI readiness",
+        "IT & process automation",
+        "IT transformation"
+      ],
+      "session_type": "Masterclass",
+      "description": "Masterclass: Making re-invent IT real\nBuild Stage\nAs the industry accelerates towards 2030, the imperative to reinvent has never been greater. This masterclass explores how organisations can build the strong foundations needed to drive meaningful AI-led Business & IT Transformation - spanning leadership, skills, engineering, risk management and the critical role of ODA as the architectural bedrock.\nThrough real-world demonstration, interactive discussion and collaborative workshop, attendees will explore how AI is reshaping IT strategy, customer experience and BSS modernisation - and how the right cultural and governance foundations enable operational excellence at scale.\nLeave with practical insights on accelerating your 2030 strategic initiatives, evolving ways of working, and unlocking the full potential of TMF frameworks in your transformation journey.\nModerator: Joann O'Brien, VP Digital Ecosystems, TM Forum\nSpeakers:\nWillie Stegmann, EVP Composable IT & Ecosystems, TM Forum\nMichel van Buitenen, Managing Vice President, Gartner\nTom Archer, Senior Managing Partner, Gartner\nLuca Franco Varvello, Senior Director, Huawei\nEmmanuel A. Otchere, VP and Chief Technical Expert, Huawei",
+      "speakers": [
+        {
+          "name": "Willie Stegmann",
+          "role": "Executive Vice President, Composable IT and Ecosystems"
+        },
+        {
+          "name": "Joann O'Brien",
+          "role": "VP Digital Ecosystems"
+        },
+        {
+          "name": "Emmanuel A. Otchere",
+          "role": "VP & Chief Technical Expert"
+        },
+        {
+          "name": "Michel van Buitenen",
+          "role": "Managing Vice President"
+        },
+        {
+          "name": "Gartner",
+          "role": "Thomas Archer"
+        },
+        {
+          "name": "Senior Managing Partner",
+          "role": "Gartner"
+        },
+        {
+          "name": "Luca Franco Varvello",
+          "role": "Senior Director"
+        }
+      ]
+    }
+  },
+  {
+    "title": "09:00-10:30",
+    "type": "Masterclass: Designing the brain and nerve system of autonomous networks",
+    "date_time": "",
+    "stage": "Growth stage",
+    "description": "25 June 2026 Learn how high-value AN scenarios translate into measurable business outcomes.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001ANcHIAW&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:00-10:30",
+      "Growth stage",
+      "Masterclass: Designing the brain and nerve system of autonomous networks",
+      "Learn how high-value AN scenarios translate into measurable business outcomes."
+    ],
+    "detail": {
+      "full_title": "Masterclass: Designing the brain and nerve system of autonomous networks",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:00-10:30",
+      "stage": "Growth stage",
+      "tracks": [
+        "Autonomous Networks",
+        "Autonomous operations"
+      ],
+      "session_type": "Masterclass",
+      "description": "Masterclass: Designing the brain and nerve system of autonomous networks\nAutonomous Networks require more than automation-they need an intelligent architecture that enables networks to sense, decide, and act with minimal human intervention. This masterclass explores the core building blocks of Level-4 Autonomous Networks, focusing on how AI-powered agents, intent-driven orchestration, and self-healing capabilities work together to create closed-loop automation across network domains.\nParticipants will learn how these capabilities interact across data, intelligence, and execution layers, and how operators and vendors can implement them using TM Forum frameworks, Open APIs, and modern AI architectures.\nKey topics include:\nIntent-driven network operations and service outcomes\nAI and agent-based decision systems for network operations\nSelf-healing domains and closed-loop automation\nThe role of observability, digital twins, and knowledge graphs\nArchitecture patterns enabling Level-4 autonomy\nThis session combines visionary architecture thinking with practical implementation patterns, helping participants understand how to design the intelligence layer of next-generation networks.\nLed by Olta Vangjeli, AN Programme Director, TM Forum and Dmytro Gassanov, Architect, Network and Cloud, TM Forum\nParticipants:\nJörg Niemöller, Expert of Analytics and Customer Experience, Ericsson\nAndrey Silva, Senior Researcher, Ericsson\nHans Neff, Deputy CTO European & American Regions, ZTE\nKevin McDonnell, Senior Director, AI and Network Autonomy (Autonomous Networks), Huawei\nQin Wu, Director, Huawei",
+      "speakers": [
+        {
+          "name": "Jörg Niemöller",
+          "role": "Expert of Analytics and Customer Experience"
+        },
+        {
+          "name": "Andrey Silva",
+          "role": "Senior Researcher"
+        },
+        {
+          "name": "Hans Neff",
+          "role": "Deputy CTO European & American Regions"
+        },
+        {
+          "name": "Olta Vangjeli",
+          "role": "AN Programme Director"
+        },
+        {
+          "name": "Kevin McDonnell",
+          "role": "Senior Director, AI and Network Autonomy (Autonomous Networks)"
+        },
+        {
+          "name": "Qin Wu",
+          "role": "Director"
+        },
+        {
+          "name": "Dmytro Gassanov",
+          "role": "Architect"
+        }
+      ]
+    }
+  },
+  {
+    "title": "09:50-10:30",
+    "type": "",
+    "date_time": "",
+    "stage": "Innovation arena stage",
+    "description": "25 June 2026 Catalyst showcase: Enabling Trustworthy AI & Data innovation",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001aAczIAE&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "09:50-10:30",
+      "Innovation arena stage",
+      "Catalyst showcase: Enabling Trustworthy AI & Data innovation"
+    ],
+    "detail": {
+      "full_title": "Catalyst showcase: Enabling Trustworthy AI & Data innovation",
+      "date": "25 de junio de 2026",
+      "time_slot": "09:50-10:30",
+      "stage": "Innovation arena stage",
+      "tracks": [
+        "AI & Data",
+        "AI (Artificial Intelligence)",
+        "Data management"
+      ],
+      "session_type": "",
+      "description": "Catalyst showcase: Enabling Trustworthy AI & Data innovation\nCatalysts\n09:50 AM - C26.0.924 Agentic NOC: AI-native operations for the autonomous telco\nTransforming telecom operations through AI-driven autonomy, predictive resilience, and secure, intent-based network management.\n10:00 AM - C26.0.941 Essential framework for telecom agentic AI\nRapid, standards-driven AI agent deployment to unlock new revenue streams, operational efficiency, and superior customer experiences.\n10:10 AM - C26.0.921 Trusted agentic AI for access management\nEmpowering secure enterprise connectivity with AI-driven compliance - transforming regulations into dynamic IAM policies for faster, risk-free, and trusted network operations.\n10:20 AM - C26.0.908 E2E multi-agent smart network CapEx - Phase III\nTransforming how telcos plan and invest through AI-enabled, intent-based orchestration of multi-domain networks",
+      "speakers": []
+    }
+  },
+  {
+    "title": "10:00-13:30",
+    "type": "",
+    "date_time": "",
+    "stage": "Autonomous Networks Mission Garage",
+    "description": "25 June 2026 Autonomous Networks Mission Garage: Day Three morning Dive into the Autonomous Networks Garage to work shoulder-to-shoulder with top network experts.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001jzl7IAA&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "10:00-13:30",
+      "Autonomous Networks Mission Garage",
+      "Autonomous Networks Mission Garage: Day Three morning",
+      "Dive into the Autonomous Networks Garage to work shoulder-to-shoulder with top network experts."
+    ],
+    "detail": {
+      "full_title": "Autonomous Networks Mission Garage: Day Three morning",
+      "date": "25 de junio de 2026",
+      "time_slot": "10:00-13:30",
+      "stage": "Autonomous Networks Mission Garage",
+      "tracks": [
+        "Autonomous Networks"
+      ],
+      "session_type": "",
+      "description": "Autonomous Networks Mission Garage: Day Three morning\nDive into the Autonomous Networks Garage to work shoulder-to-shoulder with top network experts.\nTackle real-world autonomy challenges, co-create solutions, and accelerate progress on mission-critical tasks.\nThis is your space to roll up your sleeves, share ideas, and help shape the future of zero-touch, self-optimizing networks.\nMeet the experts: In-between these sessions come along and meet the experts and find out about how the CIT&E mission is Reinventing IT\n10:00 - 10:30\nTalk to the experts - mission overview\nAn informal session focused on mission overview and engagement.\n10:30 - 12:00\nTalk to the experts - mission overview\nAn informal session focused on mission overview and engagement.\n12:00 - 13:30\nTalk to the experts - mission overview\nInformal session focused on mission overview and engagement.",
+      "speakers": []
+    }
+  },
+  {
+    "title": "10:00-12:00",
+    "type": "",
+    "date_time": "",
+    "stage": "Trustworthy AI & Data Mission Garage",
+    "description": "25 June 2026 Trustworthy AI & Data Mission Garage: Day Three morning Join the Trustworthy AI & Data Garage for hands-on teamwork with leading minds in AI, analytics, and data strategy.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001jx09IAA&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "10:00-12:00",
+      "Trustworthy AI & Data Mission Garage",
+      "Trustworthy AI & Data Mission Garage: Day Three morning",
+      "Join the Trustworthy AI & Data Garage for hands-on teamwork with leading minds in AI, analytics, and data strategy."
+    ],
+    "detail": {
+      "full_title": "Trustworthy AI & Data Mission Garage: Day Three morning",
+      "date": "25 de junio de 2026",
+      "time_slot": "10:00-12:00",
+      "stage": "Trustworthy AI & Data Mission Garage",
+      "tracks": [
+        "AI & Data",
+        "AI (Artificial Intelligence)"
+      ],
+      "session_type": "",
+      "description": "Trustworthy AI & Data Mission Garage: Day Three morning\nJoin the Trustworthy AI & Data Garage for hands-on teamwork with leading minds in AI, analytics, and data strategy. Collaborate on practical frameworks, ethical AI, and scalable use cases that turn vision into action with peers who are as passionate as you. Expect lively discussions, rapid prototyping, and a chance to drive trusted AI adoption across the industry.\nMeet the experts: In-between these sessions, come along and meet the experts and find out about how the CIT&E mission is Reinventing IT.\n10:00 - 10:30\nTalk to the experts: Trustworthy AI and Data mission overview\nInformal mission overview session.\nStuart Dunn, Program Manager, TM Forum\n11:40 - 12:00\nAI blueprint\nDeep-dive into the AI blueprint and how AI mission projects from both code and documentation are solving the main issues of the CSPs as they wrangle with solving the issues of deploying AI at scale and trust.",
+      "speakers": []
+    }
+  },
+  {
+    "title": "10:30-11:00",
+    "type": "",
+    "date_time": "",
+    "stage": "",
+    "description": "25 June 2026 Networking break: Connect and catalysts Take a break, enjoy a hot refreshment, and connect with fellow participants during this energising networking session. Whether you are looking to spark new collaborations, exchange ideas, or simply enjoy a friendly conversation, this is the perfect opportunity to build relationships in a relaxed atmosphere. Join us for a refreshing break and make the most of your time to connect with like-minded professionals.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001j0OHIAY&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "10:30-11:00",
+      "Networking break: Connect and catalysts",
+      "Take a break, enjoy a hot refreshment, and connect with fellow participants during this energising networking session. Whether you are looking to spark new collaborations, exchange ideas, or simply enjoy a friendly conversation, this is the perfect opportunity to build relationships in a relaxed atmosphere. Join us for a refreshing break and make the most of your time to connect with like-minded professionals."
+    ],
+    "detail": {
+      "full_title": "Networking break: Connect and catalysts",
+      "date": "25 June 2026",
+      "time_slot": "10:30-11:00",
+      "stage": "TM Forum industry showcase stage",
+      "tracks": [
+        "Social activities"
+      ],
+      "session_type": "",
+      "description": "Networking break: Connect and catalysts\n25 de junio de 2026\nTake a break, enjoy a hot refreshment, and connect with fellow participants during this energising networking session. Whether you are looking to spark new collaborations, exchange ideas, or simply enjoy a friendly conversation, this is the perfect opportunity to build relationships in a relaxed atmosphere. Join us for a refreshing break and make the most of your time to connect with like-minded professionals.",
+      "speakers": []
+    }
+  },
+  {
+    "title": "10:30-11:00",
+    "type": "",
+    "date_time": "",
+    "stage": "Innovation arena stage",
+    "description": "25 June 2026 Catalyst showcase: Advancing Autonomous Networks",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001aAebIAE&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "10:30-11:00",
+      "Innovation arena stage",
+      "Catalyst showcase: Advancing Autonomous Networks"
+    ],
+    "detail": {
+      "full_title": "Catalyst showcase: Advancing Autonomous Networks",
+      "date": "25 de junio de 2026",
+      "time_slot": "10:30-11:00",
+      "stage": "Innovation arena stage",
+      "tracks": [
+        "Autonomous Networks"
+      ],
+      "session_type": "",
+      "description": "Catalyst showcase: Advancing Autonomous Networks\nCatalysts\n10:30 AM - C26.0.910 Agent fabric: A2A-T runtime - Phase III\nAgents that understand telecom. Trusted autonomy for production.\n10:40 AM - C26.0.995 A2A-T: Accelerating AN L4 toward the era of multi-agent collaboration\nA2A-T Collective Intelligence, Zero-Touch Cross-Domain Ops.\n10:50 AM - C26.0.996 Multi-agent intelligence for packet core operations\nMulti-agent intelligence combined with domain expertise drives autonomous network operations, delivering efficiency, higher availability, and enhanced customer experience at scale.",
+      "speakers": []
+    }
+  },
+  {
+    "title": "11:00-12:30",
+    "type": "AI Masterclass: AI for leadership",
+    "date_time": "",
+    "stage": "Vision stage",
+    "description": "25 June 2026",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001frm9IAA&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "11:00-12:30",
+      "Vision stage",
+      "AI Masterclass: AI for leadership"
+    ],
+    "detail": {
+      "full_title": "AI Masterclass: AI for leadership",
+      "date": "25 de junio de 2026",
+      "time_slot": "11:00-12:30",
+      "stage": "Vision stage",
+      "tracks": [
+        "AI & Data"
+      ],
+      "session_type": "",
+      "description": "AI Masterclass: AI for leadership\nMasterclasses\nThe AI4Leadership: Value-driven AI transformation powered by trustworthy AI & Data\nUnderstand the AI4Leadership vision and TM Forum's AI & Data strategy\nExplore value-driven transformation through AI reference architectures and real-world success stories\nGain insight into industry collaboration to reduce complexity and build trust in AI\nLearn how to engage through collaboration projects, Innovation Hub activities and blueprint adoption\nJudith Zhang, Chief Standards Expert, Contact Center Domain, Huawei\nYang Yanfeng, Director of Network Large Model R&D, China Telecom\nLi Shitao,Chief Engineer of Core network ADN Standard, Huawei",
+      "speakers": [
+        {
+          "name": "Judith Zhang",
+          "role": "Chief Standards Expert, Contact Center Domain"
+        },
+        {
+          "name": "Li Shitao",
+          "role": "Chief Engineer of Core network ADN Standard"
+        },
+        {
+          "name": "Yanfeng Yang",
+          "role": "Director of Network Large Model R&D"
+        }
+      ]
+    }
+  },
+  {
+    "title": "11:00-12:30",
+    "type": "Masterclass: Certification clinics - fast-tracking talent readiness",
+    "date_time": "",
+    "stage": "Spotlight Stage",
+    "description": "25 June 2026",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001Mlu9IAC&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "11:00-12:30",
+      "Spotlight Stage",
+      "Masterclass: Certification clinics - fast-tracking talent readiness"
+    ],
+    "detail": {
+      "full_title": "Masterclass: Certification clinics - fast-tracking talent readiness",
+      "date": "25 de junio de 2026",
+      "time_slot": "11:00-12:30",
+      "stage": "Spotlight Stage",
+      "tracks": [
+        "Composable IT & Ecosystems",
+        "ODA (Open Digital Architecture)"
+      ],
+      "session_type": "Masterclass",
+      "description": "Masterclass: Certification clinics - fast-tracking talent readiness\nChoosing the right certifications is hard. What's right for me? Who needs what level? What's too much-or not enough? In this clinic, learn from peers who've done this at scale, see how TM Forum fits alongside other respected certifications, and leave with a clear, practical certification plan for yourself or your team that builds careers and real business value.\nNavigate ODA certification pathways aligned to real delivery roles\nApply proven frameworks for upskilling at speed across teams\nLeave with a practical certification and community engagement plan\nModerator: Shuvo Saha, VP Education, TM Forum\nAbhijit Sur, Senior Director - Product Management, Communications Industry, Salesforce\nJon Coleman, Product Management Director, TM Forum",
+      "speakers": [
+        {
+          "name": "Shuvo Saha",
+          "role": "VP Education"
+        },
+        {
+          "name": "Abhi Sur",
+          "role": "Senior Director"
+        },
+        {
+          "name": "Jon Coleman",
+          "role": "pm"
+        }
+      ]
+    }
+  },
+  {
+    "title": "11:00-12:30",
+    "type": "Masterclass: Reinvent IT for growth",
+    "date_time": "",
+    "stage": "Build stage",
+    "description": "25 June 2026",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001IqijIAC&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "11:00-12:30",
+      "Build stage",
+      "Masterclass: Reinvent IT for growth"
+    ],
+    "detail": {
+      "full_title": "Masterclass: Reinvent IT for growth",
+      "date": "25 de junio de 2026",
+      "time_slot": "11:00-12:30",
+      "stage": "Build stage",
+      "tracks": [
+        "Composable IT & Ecosystems",
+        "Business models",
+        "IT transformation"
+      ],
+      "session_type": "Masterclass",
+      "description": "Masterclass: Reinvent IT for growth\nValue stream\nThis masterclass explores the key drivers shaping the next wave of business growth. It will examine the foundational enablers organizations need to scale effectively, alongside strategies for reinventing business models in response to disruption. Participants will gain insights into how transformation initiatives can be leveraged to maximize value and drive long-term impact. The session will also highlight emerging growth opportunities, with a focus on the convergence of space and satellite technologies with telecommunications and fintech, offering a forward-looking perspective on cross-industry innovation.\nLeave with validated strategic perspectives, a clearer understanding of high-value growth opportunities and insights into how to position their organizations to engage, innovate and lead in emerging ecosystem-driven markets.\nModerator: Joann O'Brien, VP Digital Ecosystems, TM Forum\nSpeakers:\nWillie Stegmann, EVP Composable IT & Ecosystems, TM Forum\nDominik Pacewicz, VP of Product Marketing, Amartus\nSeshan Krishnamurti, VP - Sales, Covalense Digital\nDavid Villegas, Founder & Principal Architect, Gauvi\nJayesh Hargovan, Senior Manager, Enterprise Architecture, Vodacom Group",
+      "speakers": [
+        {
+          "name": "Willie Stegmann",
+          "role": "Executive Vice President, Composable IT and Ecosystems"
+        },
+        {
+          "name": "Joann O'Brien",
+          "role": "VP Digital Ecosystems"
+        },
+        {
+          "name": "Seshan Krishnamurti",
+          "role": "Vice President"
+        },
+        {
+          "name": "David Villegas",
+          "role": "Founder & Principal Architect"
+        },
+        {
+          "name": "Gauvi",
+          "role": "Jayesh Hargovan"
+        },
+        {
+          "name": "Senior Manager: Enterprise Architecture",
+          "role": "Vodacom"
+        },
+        {
+          "name": "Dominik Pacewicz",
+          "role": "VP of Product Marketing"
+        }
+      ]
+    }
+  },
+  {
+    "title": "11:00-12:30",
+    "type": "Masterclass: The roadmap to real-world autonomous networks: From assessment to implementation",
+    "date_time": "",
+    "stage": "Growth stage",
+    "description": "25 June 2026 Learn how to ensure that your AN assessment and validation is as effective as possible.",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001ANpBIAW&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "11:00-12:30",
+      "Growth stage",
+      "Masterclass: The roadmap to real-world autonomous networks: From assessment to implementation",
+      "Learn how to ensure that your AN assessment and validation is as effective as possible."
+    ],
+    "detail": {
+      "full_title": "Masterclass: The roadmap to real-world autonomous networks: From assessment to implementation",
+      "date": "25 de junio de 2026",
+      "time_slot": "11:00-12:30",
+      "stage": "Growth stage",
+      "tracks": [
+        "Autonomous Networks",
+        "Autonomous operations"
+      ],
+      "session_type": "Masterclass",
+      "description": "Masterclass: The roadmap to real-world autonomous networks: From assessment to implementation\nMany operators are exploring Autonomous Networks, but the real challenge lies in moving from strategy and maturity assessment to practical deployment.\nThis masterclass presents a structured roadmap toward Level-4 autonomy, showing how CSPs can translate maturity assessments into concrete transformation initiatives and deploy high-value autonomous capabilities.\nThrough real-world examples and industry collaboration, participants will discover how to identify the most impactful automation scenarios, design scalable solution architectures, and measure business impact.\nKey topics include:\nUsing Autonomous Network Level (ANL) assessments to define transformation priorities\nIdentifying and prioritizing high-value automation scenarios\nDesigning solution packages that combine AI, automation, and Open APIs\nMeasuring success through operational and business KPIs\nLessons learned from CSP deployments and industry collaboration\nThe session provides a practical framework for turning autonomy ambitions into deployable solutions, helping organizations accelerate their journey toward Level-4 Autonomous Networks.\nLed by Olta Vangjeli, AN Programme Director, TM Forum and Dmytro Gassanov, Architect, Network and Cloud, TM Forum\nParticipants:\nYongming Lin, CTO, Huawei\nPriya Saxena, CTO, AI and Cloud, Zinkworks\nFernando Camacho, PdM, Huawei\nPedro Garcia Parra, Operations Transformation & Autonomous Networks, Telefónica\nTony Salim, Portfolio Director, Ericsson\nZitao Wang, Engineer, Huawei\nAlexis Koalla, Director Operations Strategy and Autonomous Network Transformation, Orange",
+      "speakers": [
+        {
+          "name": "Olta Vangjeli",
+          "role": "AN Programme Director"
+        },
+        {
+          "name": "Priya Saxena",
+          "role": "CTO, AI & Cloud"
+        },
+        {
+          "name": "Fernando Camacho",
+          "role": "PdM"
+        },
+        {
+          "name": "Pedro Garcia Parra",
+          "role": "Operations Transformation & Autonomous Networks"
+        },
+        {
+          "name": "Tony Salim",
+          "role": "Portfolio Director"
+        },
+        {
+          "name": "Zitao Wang",
+          "role": "Engineer"
+        },
+        {
+          "name": "Dmytro Gassanov",
+          "role": "Architect"
+        },
+        {
+          "name": "Alexis Koalla",
+          "role": "Director Operations Strategy and Autonomous Network Transformation"
+        },
+        {
+          "name": "Yongming Lin",
+          "role": "CTO"
+        }
+      ]
+    }
+  },
+  {
+    "title": "12:45-13:45",
+    "type": "Ending DTW-Ignite 2026 with a bang , come and celebrate the industry’s most innovative minds and companies as we announce our winning Catalyst projects, the teams driving real-world transformation and the companies receiving this year's Innovator awards.",
+    "date_time": "",
+    "stage": "Park stage",
+    "description": "25 June 2026 Innovation Awards",
+    "url": "https://www.tmforum.org/events/dtw/whats-on/agenda/session-detail-page-2026?sId=a4uRn000001TD7lIAG&eId=a14Rn000007oZxq",
+    "raw_lines": [
+      "25 June 2026",
+      "12:45-13:45",
+      "Park stage",
+      "Innovation Awards",
+      "Ending DTW-Ignite 2026 with a bang , come and celebrate the industry’s most innovative minds and companies as we announce our winning Catalyst projects, the teams driving real-world transformation and the companies receiving this year's Innovator awards."
+    ],
+    "detail": {
+      "full_title": "Innovation Awards",
+      "date": "25 de junio de 2026",
+      "time_slot": "12:45-13:45",
+      "stage": "Park stage",
+      "tracks": [],
+      "session_type": "Awards",
+      "description": "It's time to celebrate the trailblazers shaping the future of our industry at these prestigious and highly anticipated Innovation Awards. Join us as we honour ground breaking solutions and the teams behind the most impactful Catalyst projects.\nOpen Innovation and Moonshot Catalyst winners will be celebrated for pushing boundaries and delivering high-impact, future-focused solutions across the industry.\nThe Catalyst Innovators Awards will also spotlight organisations demonstrating exceptional commitment, participation, and leadership within the Catalyst programme.\nCome and Join us at the Park to stage to end your DTW-Ignite 2026 with a bang!",
+      "speakers": []
+    }
+  }
+]

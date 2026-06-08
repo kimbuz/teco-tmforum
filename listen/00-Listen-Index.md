@@ -26,6 +26,7 @@ Material diseñado para ser leído en voz alta. Pensado para escuchar durante el
 | 05 | [[05-Zero-X-Como-Brujula\|Zero-X como Brújula de Decisiones]] | ~10 min |
 | 06 | [[06-Closed-Loop-Fault-Management\|Closed-Loop para Fault Management]] | ~15 min |
 | 07 | [[07-L4-Sin-GenAI\|¿Se Puede Llegar a L4 Sin GenAI?]] | ~10 min |
+| 08 | [[08-Tipos-de-Sesiones-en-DTW\|Tipos de Sesiones en el DTW Ignite]] | ~12 min |
 
 ### Cierre (siempre al final)
 
@@ -34,7 +35,7 @@ Material diseñado para ser leído en voz alta. Pensado para escuchar durante el
 | 98 | [[98-Casos-Reales-y-Vendors\|Casos Reales: Vendors y Logros]] | ~18 min |
 | 99 | [[99-Que-Esperar-en-DTW\|Qué Esperar en el DTW Ignite 2026]] | ~12 min |
 
-**Total: ~119 minutos** (~2h) — un vuelo Buenos Aires → escala.
+**Total: ~131 minutos** (~2h 11min) — un vuelo Buenos Aires → escala.
 
 ---
 

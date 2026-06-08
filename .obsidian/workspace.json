@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d886958914f35cd8",
+        "id": "eb4463b0474a9f97",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb21d1887c88642",
+            "id": "7e2bb293e48d341e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#agenda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 239.5
   },
   "right": {
     "id": "412ce7e79af78282",
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -177,41 +178,43 @@
   },
   "active": "58fdd4c03550bb04",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-28 13.56.25.excalidraw.md",
+    "Excalidraw",
+    "use-cases/03-AI-Centric-Transmission-Network.md",
+    "README.md",
+    "knowledge/01-Zero-X.md",
+    "knowledge/00-Knowledge-Index.md",
+    "knowledge/15-L4-Without-GenAI.md",
+    "knowledge/12-SID-Information-Framework.md",
+    "knowledge/13-One-View-All-Layers.md",
+    "knowledge/11-CFS-RFS-Catalog-Inventory.md",
+    "knowledge/06-Open-Digital-Architecture-ODA.md",
+    "knowledge/03-Closed-Loop-Automation.md",
+    "knowledge/07-Knowledge-Graph.md",
+    "knowledge/08-rApps-and-SMO.md",
+    "knowledge/09-MCP-and-A2A-Protocols.md",
+    "knowledge/14-SID-Examples.md",
+    "examples/03-Level-3-Conditional-Autonomous.md",
+    "examples/02-Level-2-Partial-Autonomous.md",
+    "examples/01-Level-1-Assisted-Operations.md",
+    "examples/00-AN-Levels-Examples.md",
+    "infographic/Zero-X Navigational Compass.png",
+    "infographic/The Path to Autonomous Networks.png",
     "infographic/The Journey to Autonomous Networks.png",
     "infographic/Telecom Agentic Network Infographic.png",
-    "infographic/Autonomous Telco Network PSR Model.png",
-    "infographic/Zero-X Navigational Compass.png",
-    "infographic/Global Autonomous Network Success Stories.png",
-    "infographic/GenAI in Autonomous Networks.png",
     "infographic/Strategic Roadmap for Network Autonomy.png",
     "infographic/Mastering Self-Healing Network Automation.png",
-    "infographic/The Path to Autonomous Networks.png",
-    "listen/02-Niveles-de-Autonomia.md",
-    "listen/01-Que-Son-Las-Redes-Autonomas.md",
-    "README.md",
-    "infographic",
+    "infographic/Global Autonomous Network Success Stories.png",
+    "infographic/GenAI in Autonomous Networks.png",
+    "infographic/Autonomous Telco Network PSR Model.png",
+    "use-cases/02-RAN-Automation-EIAP-rApps.md",
+    "use-cases/01-GraphML-AIOps-Root-Cause-Analysis.md",
+    "our-cases/00-Telecom-Argentina.md",
     "listen/99-Que-Esperar-en-DTW.md",
     "listen/98-Casos-Reales-y-Vendors.md",
-    "listen/09-Que-Esperar-en-DTW.md",
-    "listen/08-Casos-Reales-y-Vendors.md",
     "listen/07-L4-Sin-GenAI.md",
-    "listen/TEMP-vendors.md",
-    "listen/09-L4-Sin-GenAI.md",
-    "knowledge/15-L4-Without-GenAI.md",
-    "knowledge/15-L4-Sin-GenAI.md",
-    "listen/07-Casos-Reales-y-Vendors.md",
     "listen/06-Closed-Loop-Fault-Management.md",
-    "listen/05-Zero-X-Como-Brujula.md",
-    "listen/TEMP-05.md",
-    "listen/08-Que-Esperar-en-DTW.md",
-    "listen/07-Closed-Loop-Fault-Management.md",
-    "listen/06-Zero-X-Como-Brujula.md",
-    "listen/05-Casos-Reales-y-Vendors.md",
-    "listen/04-Catalogos-Servicios-Inventarios.md",
-    "listen/03-IA-Generativa-y-Agentes.md",
-    "listen/00-Listen-Index.md",
-    "listen",
-    "use-cases/04-TM-Forum-Level4-Certification.md",
-    "use-cases/03-AI-Centric-Transmission-Network.md"
+    "infographic",
+    "listen"
   ]
 }
